@@ -27,10 +27,7 @@ RUN ln -fs /dev/null /run/motd.dynamic
 # Copy assets
 COPY RELEASE /
 COPY assets/ /assets/
-COPY gitlab.rb.template /opt/gitlab/etc/gitlab.rb.template
-COPY show_config.rb /opt/gitlab/embedded/cookbooks/gitlab/recipes/show_config.rb
-COPY config.rb /opt/gitlab/embedded/cookbooks/gitlab/recipes/config.rb
-COPY INSTALLATION_TYPE /opt/gitlab/embedded/service/gitlab-rails/INSTALLATION_TYPE
+COPY opt/ /opt/
 RUN /assets/setup
 
 
