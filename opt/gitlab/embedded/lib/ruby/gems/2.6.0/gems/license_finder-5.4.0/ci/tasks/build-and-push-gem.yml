@@ -1,9 +1,0 @@
----
-platform: linux
-inputs:
-- name: lf-git
-run:
-  path: bash
-  args:
-  - "-lc"
-  - lf-git/ci/scripts/pushscript.sh
