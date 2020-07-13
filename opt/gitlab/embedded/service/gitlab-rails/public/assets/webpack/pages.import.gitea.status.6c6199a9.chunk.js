@@ -1,0 +1,2 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([[167],{72:function(t,e,n){n("HVBj"),t.exports=n("u64K")},u64K:function(t,e,n){"use strict";n.r(e);var o=n("u0x0");document.addEventListener("DOMContentLoaded",(function(){var t=document.getElementById("import-projects-mount-element");Object(o.a)(t)}))}},[[72,1,0,29]]]);
+//# sourceMappingURL=pages.import.gitea.status.6c6199a9.chunk.js.map

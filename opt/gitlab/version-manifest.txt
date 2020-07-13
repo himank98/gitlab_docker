@@ -1,0 +1,92 @@
+gitlab-ce 13.1.4
+
+Component                    Installed Version                          Version GUID                                                              
+--------------------------------------------------------------------------------------------------------------------------------------------------
+acme-client                  2.0.6                                      
+alertmanager                 v0.20.0                                    git:f74be0400a6243d10bb53812d6fa408ad71ff32d                              
+awesome_print                1.8.0                                      
+bundler                      1.17.3                                     
+bzip2                        1.0.6                                      md5:00b516f4704d4a7cb50a1d97e6e8e15b                                      
+cacerts                      2020.01.01                                 md5:c726ae88fd600aa26df1d30f42b51fec                                      
+chef-acme                    v4.1.1                                     git:c0f781dbce1718f73aa5f479b2aa55d6d501a95e                              
+chef-gem                     14.14.29                                   
+chef-zero                    14.0.13                                    
+compat_resource              v12.19.1                                   git:e36200f6b804915b68a4ce74c8b7a293c041d9fe                              
+config_guess                 c9092d05347c925a26f6887980e185206e13f9d6   git:5e531d391852a54e7fab2d8ff55625fca514b305                              
+curl                         curl-7_59_0                                git:963d17add2a68428d4e971f04f0fb9b9f3ac1517                              
+docker-distribution-pruner   v0.1.0                                     git:7cf07e0fcd8b478ec223db9ef4ab68a3c0619859                              
+exiftool                     11.70                                      git:654e94a1eaf54d3084a2b3dadb5a366e271e9f6b                              
+git                          2.27.0                                     sha256:77ded85cbe42b1ffdc2578b460a1ef5d23bcbc6683eabcafbb0d394dffe2e787   
+gitaly                       v13.1.4                                    git:f2fb94486d4bc5102b99960786abe8f85d8ff2fd                              
+gitlab-config-template       13.1.4                                     
+gitlab-cookbooks             13.1.4                                     
+gitlab-ctl                   13.1.4                                     
+gitlab-exporter              7.0.5                                      
+gitlab-healthcheck           90e6447aeead4a29ac9fffc15945ce6b           
+gitlab-pages                 v1.18.0                                    git:c94ba374aefd919f27a421b542f8bf6e7fbbd468                              
+gitlab-psql                  7e11364159031db0eb55867ad3d5713b           
+gitlab-rails                 v13.1.4                                    git:18c5ab32b738c0b6ecb4d0df3994000482f34bd8                              
+gitlab-redis-cli             c44b184e13a2ff40d6f71b3eff6bf6ee           
+gitlab-scripts               13.1.4                                     
+gitlab-selinux               13.1.4                                     
+gitlab-shell                 v13.3.0                                    git:131771a66fb9f0366d31f20229358820f3bfa07b                              
+gitlab-workhorse             v8.35.0                                    git:1b82d4955efe81241cf9ab06443bb810df03f556                              
+gnupg                        2.2.10                                     sha256:799dd37a86a1448732e339bd20440f4f5ee6e69755f6fd7a73ee8af30840c915   
+go-crond                     0.6.1                                      git:5e4bc8f41fba5494d9c2143e58e9471c82e7fe65                              
+gpgme                        1.10.0                                     sha256:1a8fed1197c3b99c35f403066bb344a26224d292afc048cfdfc4ccd5690a0693   
+grafana                      7.0.3                                      sha256:8fac62da4e4bfcebce3e66c4f62fd4ed89139b06b09d0155454199ba6d4869f2   
+grafana-dashboards           v1.6.0                                     git:8b966bd09c5bdc4fbb3445b673f9abdca04ae613                              
+graphicsmagick               1.3.34                                     sha256:4717f7a32d964c515d83706fd52d34e089c2ffa35f8fbf43c923ce19343cf2f4   
+jemalloc                     5.2.1                                      git:ea6b3e973b477b8061e0076bb257dbd7f3faa756                              
+krb5                         krb5-1.17                                  git:99f7ad2831a01f264c07eed42a0a3a9336b86184                              
+libassuan                    2.5.1                                      sha256:47f96c37b4f2aac289f0bc1bacfa8bd8b4b209a488d3d15e2229cb6cc9b26449   
+libedit                      20120601-3.0                               md5:e50f6a7afb4de00c81650f7b1a0f5aea                                      
+libffi                       3.2.1                                      md5:83b89587607e3eb65c70d361f13bab43                                      
+libgcrypt                    1.8.3                                      sha256:66ec90be036747602f2b48f98312361a9180c97c68a690a5f376fa0f67d0af7c   
+libgpg-error                 1.32                                       sha256:c345c5e73cc2332f8d50db84a2280abfb1d8f6d4f1858b9daa30404db44540ca   
+libiconv                     1.15                                       sha256:ccf536620a45458d26ba83887a983b96827001e92a13847b45e4925cc8913178   
+libicu                       release-57-1                               git:b772241b52fcec07b1909d44d156fbcd0cbfb20c                              
+libjpeg-turbo                2.0.4                                      git:166e34213e4f4e2363ce058a7bcc69fd03e38b76                              
+libksba                      1.3.5                                      sha256:41444fd7a6ff73a79ad9728f985e71c9ba8cd3e5e53358e70d5f066d35c1a340   
+liblzma                      5.2.4                                      sha256:b512f3b726d3b37b6dc4c8570e137b9311e7552e8ccbab4d39d47ce5f4177145   
+libossp-uuid                 1.6.2                                      md5:5db0d43a9022a6ebbbc25337ae28942f                                      
+libpng                       v1.6.37                                    git:a40189cf881e9f0db80511c382292a5604c3c3d1                              
+libre2                       2016-02-01                                 git:7436831ef39b89b3a2ea50be91cf09732a900239                              
+libtiff                      v4.1.0                                     git:e0d707dc1524d8c0e20f03396f234e0f1b07b3f4                              
+libtool                      2.4.6                                      sha256:e3bd4d5d3d025a36c21dd6af7ea818a2afcd4dfc1ea5a17b39d7854bcd0c06e3   
+libxml2                      2.9.9                                      md5:c04a5a0a042eaa157e8e8c9eabe76bd6                                      
+libxslt                      1.1.32                                     md5:1fc72f98e98bf4443f1651165f3aa146                                      
+libyaml                      0.1.7                                      sha256:8088e457264a98ba451a90b8661fcb4f9d6f478f7265d48322a196cec2480729   
+logrotate                    3.16.0                                     git:b6d261a1b00e96f65c5d9bc4a2f496e2e243f3ac                              
+mattermost                   5.23.1                                     md5:cc4cbec11facf45003ecf11d11779607                                      
+mixlib-log                   3.0.1                                      
+ncurses                      5.9                                        md5:8cb9c412e5f2d96bc6f459aa8c6282a1                                      
+nginx                        1.18.0                                     sha256:4c373e7ab5bf91d34a4f11a0c9496561061ba5eee6020db272a17a7228d35f99   
+nginx-module-vts             v0.1.18                                    git:46d85558e344dfe2b078ce757fd36c69a1ec2dd3                              
+node-exporter                v0.18.1                                    git:3db77732e925c08f675d7404a8c46466b2ece83e                              
+npth                         1.6                                        sha256:1393abd9adcf0762d34798dc34fdcf4d0d22a8410721e76f1e3afcd1daa4e2d1   
+ohai                         14.14.0                                    
+omnibus-ctl                  1b96ac486636cac987e5b464810bb3ff673a93fe   git:e160156deaa0afc037748b10d1c9ef0a5be97dc1                              
+openssl                      OpenSSL_1_1_1g                             git:f6f159e7a133d1b2f82a82fab3f8c357a07b574f                              
+package-scripts              13.1.4+ce.0                                
+pcre                         8.44                                       sha256:aecafd4af3bd0f3935721af77b889d9024b2e01d96b58471bd91a3063fb47728   
+pcre2                        10.34                                      md5:e3e15cca49557a9c07a21dde2da05ea5                                      
+pkg-config-lite              0.28-1                                     md5:61f05feb6bab0a6bbfab4b6e3b2f44b6                                      
+popt                         1.16                                       md5:3743beefa3dd6247a73f8f7a32c14c33                                      
+postgres-exporter            v0.8.0                                     git:aeec47ead4ad3941cf1b6588b1ac5a44ca9e9c4b                              
+postgresql                   11.7                                       sha256:324ae93a8846fbb6a25d562d271bc441ffa8794654c5b2839384834de220a313   
+prometheus                   v2.16.0                                    git:b90be6f32a33c03163d700e1452b54454ddce0ec                              
+python-docutils              0.16                                       
+python3                      3.7.3                                      sha256:d62e3015f2f89c970ac52343976b406694931742fbde2fed8d1ce8ebb4e1f8ff   
+rb-readline                  master                                     git:9fba246073f78831b7c7129c76cc07d8476a8892                              
+redis                        5.0.9                                      git:a3ca53e4a792a5da18444fb587531029ed62f99b                              
+redis-exporter               v1.3.5                                     git:14dda66e724e45935782db610aca803594107ff0                              
+registry                     v2.9.1-gitlab                              git:ae2e973db9365d6f8401ffb6bfc603f3cd76b111                              
+remote-syslog                1.6.15                                     
+rsync                        3.1.3                                      md5:1581a588fde9d89f6bc6201e8129afaf                                      
+ruby                         2.6.6                                      sha256:364b143def360bac1b74eb56ed60b1a0dca6439b00157ae11ff77d5cd2e92291   
+rubygems                     2.7.10                                     
+runit                        2.1.2                                      md5:6c985fbfe3a34608eb3c53dc719172c4                                      
+unzip                        6.0                                        sha256:036d96991646d0449ed0aa952e4fbe21b476ce994abc276e49d30e686708bd37   
+version-manifest             0.0.1                                      
+zlib                         v1.2.11                                    git:cacf7f1d4e3d44d871b605da3b647f07d718623f                              

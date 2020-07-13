@@ -1,0 +1,2 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([[125],{30:function(t,n,s){s("HVBj"),t.exports=s("wXsL")},wXsL:function(t,n,s){"use strict";s.r(n);var e=s("Js/K");document.addEventListener("DOMContentLoaded",(function(){Object(e.a)()}))}},[[30,1,0,40]]]);
+//# sourceMappingURL=pages.dashboard.groups.index.89660f2a.chunk.js.map

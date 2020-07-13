@@ -1,0 +1,26 @@
+#!/bin/sh
+
+error_echo()
+{
+  echo "$1" 2>& 1
+}
+
+gitlab_redis_cli_rc='/opt/gitlab/etc/gitlab-redis-cli-rc'
+
+if ! [ -f ${gitlab_redis_cli_rc} ] || ! [ -r ${gitlab_redis_cli_rc} ] ; then
+  error_echo "$0 error: could not load ${gitlab_redis_cli_rc}"
+  error_echo "Either you are not allowed to read the file, or it does not exist yet."
+  error_echo "You can generate it with:   sudo gitlab-ctl reconfigure"
+  exit 1
+fi
+
+. "${gitlab_redis_cli_rc}"
+
+if [ -e "${redis_socket}" ]; then
+	REDIS_PARAMS="-s ${redis_socket}"
+else
+  REDIS_PARAMS="-h ${redis_host} -p ${redis_port}"
+fi
+
+export REDISCLI_AUTH="$(grep ^requirepass ${redis_dir}/redis.conf|cut -d\" -f2)"
+exec /opt/gitlab/embedded/bin/redis-cli $REDIS_PARAMS $@

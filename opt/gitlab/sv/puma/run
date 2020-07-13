@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Let runit capture all script error messages
+exec 2>&1
+
+# Setup run directory.
+mkdir -p /dev/shm/gitlab/puma
+chmod 0700 /dev/shm/gitlab/puma
+chown git /dev/shm/gitlab/puma
+export prometheus_run_dir='/dev/shm/gitlab/puma'
+
+
+
+
+exec chpst -P \
+  -u git:git \
+  -U git:git \
+  -e /opt/gitlab/etc/gitlab-rails/env \
+  /usr/bin/env \
+    prometheus_multiproc_dir="${prometheus_run_dir}" \
+    /opt/gitlab/embedded/bin/bundle exec puma -C /var/opt/gitlab/gitlab-rails/etc/puma.rb

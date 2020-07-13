@@ -1,0 +1,2 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([[169],{75:function(t,e,n){n("HVBj"),t.exports=n("xVSU")},xVSU:function(t,e,n){"use strict";n.r(e);var o=n("u0x0");document.addEventListener("DOMContentLoaded",(function(){var t=document.getElementById("import-projects-mount-element");Object(o.a)(t)}))}},[[75,1,0,29]]]);
+//# sourceMappingURL=pages.import.gitlab.status.07266a58.chunk.js.map

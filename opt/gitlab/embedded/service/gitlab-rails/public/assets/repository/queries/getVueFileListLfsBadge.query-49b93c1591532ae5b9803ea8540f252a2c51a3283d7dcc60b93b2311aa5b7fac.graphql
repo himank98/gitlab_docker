@@ -1,0 +1,3 @@
+query getVueFileListLfsBadge {
+  vueFileListLfsBadge @client
+}

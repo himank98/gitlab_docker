@@ -1,0 +1,5558 @@
+{
+  "name": "ec90f3132446",
+  "normal": {
+    "tags": [
+
+    ],
+    "gitlab": {
+      "gitlab-shell": {
+        "secret_token": "1a4e6b7d4d509694781129765ab2e9251613dbcd1c81ee0836263f3602279010f194166d3bf8785f8eb7f4059fd82117665125b7d281a6ed049e76a95d331381",
+        "auth_file": "/var/opt/gitlab/.ssh/authorized_keys"
+      },
+      "gitlab-rails": {
+        "db_key_base": "51a1b5dbc646a629f6a37cccb73b9774dfd33163901b01c252ed28cd7018b85d9df2423a9487f0457686f31f357f8dfde2b101d45076829db77894e5c36dcc89",
+        "secret_key_base": "07117e2973741f9abea91a01217e6f507a66b23a3a0b2d35833c6b8658e974098455664f9abff5305c5675644e35a784a61137d503b05fe44d94d0428d629a79",
+        "otp_key_base": "d7536c270220c39195d15a20fdcf26c1c6cc18ef01a33adfe8501855e1d3c2b5416c2d823a2ee7791b990ee05bb5d5f94241b6bdb07d7db02dc022ccc99892a4",
+        "openid_connect_signing_key": "-----BEGIN RSA PRIVATE KEY-----\n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\n-----END RSA PRIVATE KEY-----\n",
+        "ci_jwt_signing_key": "-----BEGIN RSA PRIVATE KEY-----\n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\n-----END RSA PRIVATE KEY-----\n",
+        "gitlab_host": "ec90f3132446",
+        "gitlab_email_from": "gitlab@ec90f3132446",
+        "gitlab_https": false,
+        "gitlab_port": 80,
+        "shared_path": "/var/opt/gitlab/gitlab-rails/shared",
+        "artifacts_path": "/var/opt/gitlab/gitlab-rails/shared/artifacts",
+        "external_diffs_storage_path": "/var/opt/gitlab/gitlab-rails/shared/external-diffs",
+        "lfs_storage_path": "/var/opt/gitlab/gitlab-rails/shared/lfs-objects",
+        "uploads_storage_path": "/opt/gitlab/embedded/service/gitlab-rails/public",
+        "packages_storage_path": "/var/opt/gitlab/gitlab-rails/shared/packages",
+        "dependency_proxy_storage_path": "/var/opt/gitlab/gitlab-rails/shared/dependency_proxy",
+        "terraform_state_storage_path": "/var/opt/gitlab/gitlab-rails/shared/terraform_state",
+        "pages_path": "/var/opt/gitlab/gitlab-rails/shared/pages",
+        "repositories_storages": {
+          "default": {
+            "path": "/var/opt/gitlab/git-data/repositories",
+            "gitaly_address": "unix:/var/opt/gitlab/gitaly/gitaly.socket"
+          }
+        },
+        "trusted_proxies": [
+
+        ],
+        "max_request_duration_seconds": 57,
+        "db_username": "gitlab",
+        "db_host": null,
+        "db_port": 5432
+      },
+      "gitlab-workhorse": {
+        "secret_token": "NlSr69aU4BJ9iVuCH98XE0RhYp+ACc9MQmIqVnXzfAk=",
+        "auth_socket": "/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket",
+        "cable_socket": "/var/opt/gitlab/gitlab-rails/sockets/gitlab_actioncable.socket"
+      },
+      "logging": {
+
+      },
+      "unicorn": {
+
+      },
+      "puma": {
+
+      },
+      "actioncable": {
+
+      },
+      "mailroom": {
+
+      },
+      "gitlab-pages": {
+        "auth_secret": "73e846be8973cc6ba6726a407ff4df5ae8968e2ca7152126ceaf01a645d6ba10a252b45720f8dec5f783bf5e02564118f8cda7cc79ad9f40063beb8cdb799b58",
+        "api_secret_key": "Hv4VtN8mqKp8afml3wO/kpW1WlXrEcN9vomT30Jju44="
+      },
+      "external-url": "http://ec90f3132446",
+      "registry-external-url": null,
+      "mattermost-external-url": null,
+      "pages-external-url": null,
+      "runtime-dir": "/dev/shm",
+      "git-data-dir": null,
+      "bootstrap": {
+
+      },
+      "omnibus-gitconfig": {
+
+      },
+      "manage-accounts": {
+        "enable": false
+      },
+      "manage-storage-directories": {
+
+      },
+      "user": {
+        "home": "/var/opt/gitlab",
+        "git_user_email": "gitlab@ec90f3132446"
+      },
+      "gitlab-ci": {
+
+      },
+      "sidekiq": {
+        "enable": false
+      },
+      "sidekiq-cluster": {
+        "enable": true,
+        "ha": false,
+        "log_directory": "/var/log/gitlab/sidekiq",
+        "experimental_queue_selector": false,
+        "interval": null,
+        "max_concurrency": 50,
+        "min_concurrency": null,
+        "negate": false,
+        "queue_groups": [
+          "*"
+        ],
+        "shutdown_timeout": 25
+      },
+      "mattermost-nginx": {
+        "listen_port": null
+      },
+      "pages-nginx": {
+        "listen_port": null
+      },
+      "registry-nginx": {
+
+      },
+      "remote-syslog": {
+
+      },
+      "logrotate": {
+
+      },
+      "high-availability": {
+
+      },
+      "web-server": {
+
+      },
+      "prometheus-monitoring": {
+
+      },
+      "pgbouncer": {
+
+      },
+      "pgbouncer-exporter": {
+
+      },
+      "storage-check": {
+        "target": "unix:///var/opt/gitlab/gitlab-rails/sockets/gitlab.socket"
+      },
+      "nginx": {
+        "proxy_set_headers": {
+          "Host": "$http_host_with_default",
+          "X-Real-IP": "$remote_addr",
+          "X-Forwarded-For": "$proxy_add_x_forwarded_for",
+          "Upgrade": "$http_upgrade",
+          "Connection": "$connection_upgrade",
+          "X-Forwarded-Proto": "http"
+        },
+        "real_ip_trusted_addresses": [
+
+        ],
+        "listen_port": 80
+      }
+    },
+    "roles": {
+      "application": {
+
+      },
+      "redis-sentinel": {
+
+      },
+      "redis-master": {
+
+      },
+      "redis-replica": {
+
+      },
+      "redis-slave": {
+
+      },
+      "geo-primary": {
+
+      },
+      "geo-secondary": {
+
+      },
+      "monitoring": {
+
+      },
+      "postgres": {
+
+      },
+      "pgbouncer": {
+
+      },
+      "consul": {
+
+      }
+    },
+    "monitoring": {
+      "prometheus": {
+        "alertmanagers": [
+          {
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:9093"
+                ]
+              }
+            ]
+          }
+        ],
+        "scrape_configs": [
+          {
+            "job_name": "prometheus",
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:9090"
+                ]
+              }
+            ]
+          },
+          {
+            "job_name": "nginx",
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:8060"
+                ]
+              }
+            ]
+          },
+          {
+            "job_name": "redis",
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:9121"
+                ]
+              }
+            ]
+          },
+          {
+            "job_name": "postgres",
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:9187"
+                ]
+              }
+            ]
+          },
+          {
+            "job_name": "gitlab-workhorse",
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:9229"
+                ]
+              }
+            ]
+          },
+          {
+            "job_name": "gitlab-rails",
+            "metrics_path": "/-/metrics",
+            "static_configs": [
+              {
+                "targets": [
+                  "127.0.0.1:8080"
+                ]
+              }
+            ],
+            "relabel_configs": [
+              {
+                "source_labels": [
+                  "__address__"
+                ],
+                "regex": "127.0.0.1:(.*)",
+                "replacement": "localhost:$1",
+                "target_label": "instance"
+              }
+            ]
+          },
+          {
+            "job_name": "gitlab-sidekiq",
+            "static_configs": [
+              {
+                "targets": [
+                  "127.0.0.1:8082"
+                ]
+              }
+            ],
+            "relabel_configs": [
+              {
+                "source_labels": [
+                  "__address__"
+                ],
+                "regex": "127.0.0.1:(.*)",
+                "replacement": "localhost:$1",
+                "target_label": "instance"
+              }
+            ]
+          },
+          {
+            "job_name": "gitlab_exporter_database",
+            "metrics_path": "/database",
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:9168"
+                ]
+              }
+            ]
+          },
+          {
+            "job_name": "gitlab_exporter_sidekiq",
+            "metrics_path": "/sidekiq",
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:9168"
+                ]
+              }
+            ]
+          },
+          {
+            "job_name": "gitlab_exporter_process",
+            "metrics_path": "/process",
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:9168"
+                ]
+              }
+            ]
+          },
+          {
+            "job_name": "gitaly",
+            "static_configs": [
+              {
+                "targets": [
+                  "localhost:9236"
+                ]
+              }
+            ]
+          },
+          {
+            "job_name": "kubernetes-cadvisor",
+            "scheme": "https",
+            "tls_config": {
+              "ca_file": "/var/run/secrets/kubernetes.io/serviceaccount/ca.crt",
+              "insecure_skip_verify": true
+            },
+            "bearer_token_file": "/var/run/secrets/kubernetes.io/serviceaccount/token",
+            "kubernetes_sd_configs": [
+              {
+                "role": "node",
+                "api_server": "https://kubernetes.default.svc:443",
+                "tls_config": {
+                  "ca_file": "/var/run/secrets/kubernetes.io/serviceaccount/ca.crt"
+                },
+                "bearer_token_file": "/var/run/secrets/kubernetes.io/serviceaccount/token"
+              }
+            ],
+            "relabel_configs": [
+              {
+                "action": "labelmap",
+                "regex": "__meta_kubernetes_node_label_(.+)"
+              },
+              {
+                "target_label": "__address__",
+                "replacement": "kubernetes.default.svc:443"
+              },
+              {
+                "source_labels": [
+                  "__meta_kubernetes_node_name"
+                ],
+                "regex": "(.+)",
+                "target_label": "__metrics_path__",
+                "replacement": "/api/v1/nodes/${1}/proxy/metrics/cadvisor"
+              }
+            ],
+            "metric_relabel_configs": [
+              {
+                "source_labels": [
+                  "pod_name"
+                ],
+                "target_label": "environment",
+                "regex": "(.+)-.+-.+"
+              }
+            ]
+          },
+          {
+            "job_name": "kubernetes-nodes",
+            "scheme": "https",
+            "tls_config": {
+              "ca_file": "/var/run/secrets/kubernetes.io/serviceaccount/ca.crt",
+              "insecure_skip_verify": true
+            },
+            "bearer_token_file": "/var/run/secrets/kubernetes.io/serviceaccount/token",
+            "kubernetes_sd_configs": [
+              {
+                "role": "node",
+                "api_server": "https://kubernetes.default.svc:443",
+                "tls_config": {
+                  "ca_file": "/var/run/secrets/kubernetes.io/serviceaccount/ca.crt"
+                },
+                "bearer_token_file": "/var/run/secrets/kubernetes.io/serviceaccount/token"
+              }
+            ],
+            "relabel_configs": [
+              {
+                "action": "labelmap",
+                "regex": "__meta_kubernetes_node_label_(.+)"
+              },
+              {
+                "target_label": "__address__",
+                "replacement": "kubernetes.default.svc:443"
+              },
+              {
+                "source_labels": [
+                  "__meta_kubernetes_node_name"
+                ],
+                "regex": "(.+)",
+                "target_label": "__metrics_path__",
+                "replacement": "/api/v1/nodes/${1}/proxy/metrics"
+              }
+            ],
+            "metric_relabel_configs": [
+              {
+                "source_labels": [
+                  "pod_name"
+                ],
+                "target_label": "environment",
+                "regex": "(.+)-.+-.+"
+              }
+            ]
+          },
+          {
+            "job_name": "kubernetes-pods",
+            "tls_config": {
+              "ca_file": "/var/run/secrets/kubernetes.io/serviceaccount/ca.crt",
+              "insecure_skip_verify": true
+            },
+            "bearer_token_file": "/var/run/secrets/kubernetes.io/serviceaccount/token",
+            "kubernetes_sd_configs": [
+              {
+                "role": "pod",
+                "api_server": "https://kubernetes.default.svc:443",
+                "tls_config": {
+                  "ca_file": "/var/run/secrets/kubernetes.io/serviceaccount/ca.crt"
+                },
+                "bearer_token_file": "/var/run/secrets/kubernetes.io/serviceaccount/token"
+              }
+            ],
+            "relabel_configs": [
+              {
+                "source_labels": [
+                  "__meta_kubernetes_pod_annotation_prometheus_io_scrape"
+                ],
+                "action": "keep",
+                "regex": "true"
+              },
+              {
+                "source_labels": [
+                  "__meta_kubernetes_pod_annotation_prometheus_io_path"
+                ],
+                "action": "replace",
+                "target_label": "__metrics_path__",
+                "regex": "(.+)"
+              },
+              {
+                "source_labels": [
+                  "__address__",
+                  "__meta_kubernetes_pod_annotation_prometheus_io_port"
+                ],
+                "action": "replace",
+                "regex": "([^:]+)(?::[0-9]+)?;([0-9]+)",
+                "replacement": "$1:$2",
+                "target_label": "__address__"
+              },
+              {
+                "action": "labelmap",
+                "regex": "__meta_kubernetes_pod_label_(.+)"
+              },
+              {
+                "source_labels": [
+                  "__meta_kubernetes_namespace"
+                ],
+                "action": "replace",
+                "target_label": "kubernetes_namespace"
+              },
+              {
+                "source_labels": [
+                  "__meta_kubernetes_pod_name"
+                ],
+                "action": "replace",
+                "target_label": "kubernetes_pod_name"
+              }
+            ]
+          }
+        ],
+        "rules_directory": "/var/opt/gitlab/prometheus/rules",
+        "rules_files": [
+          "/var/opt/gitlab/prometheus/rules/*.rules"
+        ],
+        "flags": {
+          "web.listen-address": "localhost:9090",
+          "storage.tsdb.path": "/var/opt/gitlab/prometheus/data",
+          "config.file": "/var/opt/gitlab/prometheus/prometheus.yml"
+        }
+      },
+      "grafana": {
+        "secret_key": "89f555283b2d4b8649e52826d4d37fe6",
+        "admin_password": "a6e1aae1316e59a119554cbea3603cda",
+        "datasources": [
+          {
+            "name": "GitLab Omnibus",
+            "type": "prometheus",
+            "access": "proxy",
+            "url": "http://localhost:9090",
+            "isDefault": true
+          }
+        ],
+        "gitlab_secret": "25258d2e414165b19a489b09f24e8b7252fa4ffe4e9988de808426daf125757c",
+        "gitlab_application_id": "b38e80ffc4cacbb45f587c420ff8da7b236a9e2d0b82841fcfd6af8b40647dea"
+      },
+      "alertmanager": {
+        "global": {
+
+        },
+        "inhibit_rules": [
+
+        ],
+        "receivers": [
+          {
+            "name": "default-receiver"
+          }
+        ],
+        "routes": [
+
+        ],
+        "templates": [
+
+        ],
+        "default_receiver": "default-receiver",
+        "flags": {
+          "web.listen-address": "localhost:9093",
+          "storage.path": "/var/opt/gitlab/alertmanager/data",
+          "config.file": "/var/opt/gitlab/alertmanager/alertmanager.yml"
+        }
+      },
+      "node-exporter": {
+        "enable": false,
+        "flags": {
+          "web.listen-address": "localhost:9100",
+          "collector.mountstats": true,
+          "collector.runit": true,
+          "collector.runit.servicedir": "/opt/gitlab/sv",
+          "collector.textfile.directory": "/var/opt/gitlab/node-exporter/textfile_collector"
+        }
+      },
+      "redis-exporter": {
+        "flags": {
+          "web.listen-address": "localhost:9121",
+          "redis.addr": "unix:///var/opt/gitlab/redis/redis.socket"
+        }
+      },
+      "postgres-exporter": {
+        "flags": {
+          "web.listen-address": "localhost:9187",
+          "extend.query-path": "/var/opt/gitlab/postgres-exporter/queries.yaml"
+        }
+      },
+      "gitlab-exporter": {
+        "probe_sidekiq": true
+      }
+    },
+    "letsencrypt": {
+      "enable": false,
+      "auto_enabled": false
+    },
+    "package": {
+      "detect_init": false
+    },
+    "registry": {
+      "http_secret": "3ef923c6e4ff26fc53efc764013528d84045bf0fa9233ddb91d1fd5bfa634e44fdc505ddd61f7280bfaa68bf56d5de85c9615b645cfcd2ba59c511b5d53a8740",
+      "internal_certificate": "-----BEGIN CERTIFICATE-----\nMIIFBTCCAu2gAwIBAgIBADANBgkqhkiG9w0BAQsFADBGMQwwCgYDVQQGEwNVU0Ex\nDzANBgNVBAoMBkdpdExhYjESMBAGA1UECwwJQ29udGFpbmVyMREwDwYDVQQDDAhS\nZWdpc3RyeTAeFw0yMDA3MTMxNjI0MDVaFw0zMDA3MTExNjI0MDVaMEYxDDAKBgNV\nBAYTA1VTQTEPMA0GA1UECgwGR2l0TGFiMRIwEAYDVQQLDAlDb250YWluZXIxETAP\nBgNVBAMMCFJlZ2lzdHJ5MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA\nruiRjakYdhepuCiIzcQRKugTo2YT/7FAbOMTHR0p9bSl/E++oo1QHDuhY2otGB8x\nDrC+TOOR6CfXU9zVnlHWQ13Tyzt3uVTV4iN5vbDa1pwrDsCeI0siJqAD/VBgSk3A\ne32R3bSbkPQ1cusMGn1Kmx3Dx8N4HbhrkyVYYO5ha5Gh/ludEbeX6UNAxsgW+mDN\nynB+XcOwj1TZRvpdTEuuR7fXeY0ewodr35oTShxHRbFJ9qrpgBXEkEnGR90bFVvt\nswP28d6YhCEWe8JyDaBHbaXfiSIWSiFxHXbsE0hTmXl6/XdkjqVNc01ztSHAWCvl\nN6pbk3/Fbg0lW908sSPfrWb0N+kpTaZhJ8cxFUNwQpN57tQ19JUFSibcWx1JtVY0\n3+qaih/TinP4UW241ZwtRNvbc0B484+qETyuI8eQrDi0Q0dupEYrT9pw1PPiiI+1\n44gEEsqIudg5DfkZY1bMtYTIgvXszsDxeEteEFG3/2G8jqtFOrbMqchxAHyrXboD\nykCYIWZCevNcyYxfghRKOzdqoHgwANrfZz/GvTG37d/5MGcoA/J8A/Qfih6WcdmJ\nUr7UdEdp/70nOrHEqq7R/bkASiuuOoYHuOQrBfOExSbMTljwQAvotl5HI3lX/bzB\nqVIyLqaNrO2PZL6DJY52Fv40Y7Rpy4Anq8pMtJGbOF8CAwEAATANBgkqhkiG9w0B\nAQsFAAOCAgEAJNJJtrkk4oGKYeolje8Rm6Mcs9ouFQiwq88eOSO/JEXBXZORDNSn\nWrjoEFEuNDJNKzwRVcZ+5whuW9Zmo4vN0EJKG2vS6Wr2m7HdlM6vhsz6NWp8DSI+\n5Gzuz4jouwGro7yHbOg6ZXv93jUe8ZuvD5bAniSP2gSwMPPVc59Y1+cHJxBZDcex\ncFTUdM/O4pqVQdekYM9y8P2va2SMiOnDPIPZoTUlusN9mr0rq8uoepELDMZrzgj7\nyfOa367HDVg9TEWJOkLiUgZbifryb4UwAZ7r6NEs3qHJpDAE0wr87ERhzlBNrnFE\n2ERVnJ4vilyeObGlytpyX6M/41bi8Qw5u6OBEkAvd6cmmviyvwYxOnsRjDqeiJap\nGuPCwT2mg2yATs1P+06e3BoBKlBRpGbEzFW6HV7HsxRcve4dfQ6dfKQQFhRqxnOt\nrfAIrHkgwdawiGhR9JnEA6SZcQdbOjJG8SmCANevpHWtDC2OLzqre69N0Y42S+CE\nYQanlg7j7zwTiNmsbgPQ908PJ6b1GtDel6OExlORv+90wbgnTjJAsSSmRYYD/W64\nGJy218uj2TRambwR1vemQoABxkOrjedlnxKrAr4dkTgLMo6hDdw09ApGRmGL6fQZ\nMQE13Go7jeUsOnGLC/+A3e4t97+3DVh94xfQKXohH7ZRGC5fYL4I54E=\n-----END CERTIFICATE-----\n",
+      "internal_key": "-----BEGIN RSA PRIVATE KEY-----\n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\n-----END RSA PRIVATE KEY-----\n"
+    },
+    "redis": {
+      "client_output_buffer_limit_replica": null,
+      "rename_commands": {
+        "KEYS": ""
+      }
+    },
+    "postgresql": {
+      "shared_buffers": "1MB",
+      "internal_certificate": "-----BEGIN CERTIFICATE-----\nMIIFBzCCAu+gAwIBAgIBADANBgkqhkiG9w0BAQsFADBHMQwwCgYDVQQGEwNVU0Ex\nDzANBgNVBAoMBkdpdExhYjERMA8GA1UECwwIRGF0YWJhc2UxEzARBgNVBAMMClBv\nc3RncmVTUUwwHhcNMjAwNzEzMTYyNDA1WhcNMzAwNzExMTYyNDA1WjBHMQwwCgYD\nVQQGEwNVU0ExDzANBgNVBAoMBkdpdExhYjERMA8GA1UECwwIRGF0YWJhc2UxEzAR\nBgNVBAMMClBvc3RncmVTUUwwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoIC\nAQC3GD7Gitu6iSMKmOuTgZSY/F7/1uD/xOVUEB/4GjS53d0RUG3nEwNvTA2Linjo\nGXk+pk+cMCOFBKt3Qq/VTO7D3GQ7vxiyre5hD5t4yTU8R9/0Qs2ePV16PWqi6PdE\nXC+GfFK5I0wvCB6h7gmR/4OoTWQADbLNm493BPmh5qnosMNHwKmdRCLGIMVV/mvC\n1ojyBp0QeLWjB/9duLsZD4p0lm/u76OoyTgczluRfOz8AuEkJ575WGF9Q1rnYBpd\nUWAO7rwFNv2uXaqvcQ76IZ6bE5XVixR6phzX/8Nc1VGvpclNz1ZsXyvlB/KqBgnH\n3xYTqJ9uih8YCAagO8m7wIdUPbHe7IbxD0CnBuYNM7zTdyqMgV37O2GQubC2mInO\n8v0koOxBvYcYR2bJISLvEk0xF4XZdfOVu5y56kCPCHzbmDqtmfxDjoMua2eOE9M5\nHM7MN8+YcRkdMlevU7s5vVOKZrnXD0p75eMxQn5Uv1lKMZmPOfAyHUvJhkuoVoVL\nId7klaKacNLYaCH9nf1lDBoV9W9dIGtgwdO0/wnJGth1WW4kdT/tubp4sA5aN96H\ne1kXbpdG2cj+QrQTeUkfUhY5jCcbbERwOm4RpUkdC25jhUznmyzo5yfvzo/iOs4/\nkreKSPwHQyj9aoc8wXTyj2Hn3Ty7BGrWmp30Ojah1G0tdQIDAQABMA0GCSqGSIb3\nDQEBCwUAA4ICAQBvIWJq9gfM6Qf4RH7P26yE2F4Vqg2znukSS892mOEqq92DVi0v\nak7hQlWP2kw5G8Y/hbRd9KavAWlaOhxTXKDQFt4JB+RMCm+labZKb4LwVrvO6cir\n0p1FAQ8GrBXDWlXoj2i2n0kXSj5RnyozSLWMC9YUM7Rgfpxp+KJj0/yp1jD7V2eQ\nzTxyZysdOZqDgcL+7TSIaaw1KNsDmVxAXGx5XYeIboLlnP5yGZSBLAzRuCOsQfCo\nVMqahzESQWGRs3ZgPOM0spW6jLjzkDn4vnbza26ZCjx2q6rI3zl39huIYCAvIlej\nYtrMPVNINkm0HLS6/9GgexUtbwafcGMl0AFH9jQ/+HRX7x5h5idvWD2Scz+YsNjZ\nAS4bzSOe32Aqa9hmcn/RR4YRro+o4EMUAsbZ5U/B0rGiFUzShnDt3spSlEzpOrOV\n4QF3sGeKNS9ve7ibms8U9JV7dcv1Hj/JWRTQnXJ87HugtJSnshL9gbbblTRzQXJ7\nFrg2M0HWQ53KurxJy+CfPknd0t7OPGQz/QrlHc7HbasBqjPXbS4BbbCFmHnfL/To\n0STh7TWKtWUtekyu8NLYgo/J1H3sDtF83uzKOhB1bUnFWIz36MQpN3pMs3PuUccD\nnnxQ1ltzr2ntzNodKZ0kz+oKtvkczabjVB7CXRG/iuwpvcp+l3GlMSXD6Q==\n-----END CERTIFICATE-----\n",
+      "internal_key": "-----BEGIN RSA PRIVATE KEY-----\n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\n-----END RSA PRIVATE KEY-----\n",
+      "connect_port": 5432
+    },
+    "repmgr": {
+
+    },
+    "repmgrd": {
+
+    },
+    "consul": {
+
+    },
+    "patroni": {
+
+    },
+    "gitaly": {
+      "storage": [
+        {
+          "name": "default",
+          "path": "/var/opt/gitlab/git-data/repositories"
+        }
+      ]
+    },
+    "praefect": {
+
+    },
+    "crond": {
+
+    },
+    "mattermost": {
+      "email_invite_salt": "0337f1ea61b254580e7612ea46c15521",
+      "file_public_link_salt": "b419212419ac0767a5e64118f17de659",
+      "sql_at_rest_encrypt_key": "81f4d6624011f1dfff608f82647df9fa",
+      "sql_data_source": "user=gitlab_mattermost host=/var/opt/gitlab/postgresql port=5432 dbname=mattermost_production"
+    }
+  },
+  "default": {
+    "package": {
+      "install-dir": "/opt/gitlab",
+      "detect_init": true,
+      "systemd_tasks_max": 4915,
+      "systemd_wanted_by": "multi-user.target",
+      "systemd_after": "multi-user.target"
+    },
+    "runit": {
+      "sv_bin": "/opt/gitlab/embedded/bin/sv",
+      "chpst_bin": "/opt/gitlab/embedded/bin/chpst",
+      "service_dir": "/opt/gitlab/service",
+      "sv_dir": "/opt/gitlab/sv",
+      "lsb_init_dir": "/opt/gitlab/init"
+    },
+    "consul": {
+      "enable": false,
+      "dir": "/var/opt/gitlab/consul",
+      "username": "gitlab-consul",
+      "group": "gitlab-consul",
+      "config_file": "/var/opt/gitlab/consul/config.json",
+      "config_dir": "/var/opt/gitlab/consul/config.d",
+      "data_dir": "/var/opt/gitlab/consul/data",
+      "log_directory": "/var/log/gitlab/consul",
+      "node_name": null,
+      "script_directory": "/var/opt/gitlab/consul/scripts",
+      "configuration": {
+
+      },
+      "env_directory": "/opt/gitlab/etc/consul/env",
+      "env": {
+        "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/"
+      },
+      "logging_filters": {
+        "postgresql_warning": "-*agent: Check 'service:postgresql' is now critical"
+      },
+      "monitoring_service_discovery": false,
+      "services": [
+
+      ],
+      "service_config": null,
+      "internal": {
+        "postgresql_service_name": "postgresql",
+        "postgresql_service_check_interval": "10s",
+        "postgresql_service_check_status": "failing",
+        "postgresql_service_check_args_repmgr": [
+          "/opt/gitlab/bin/gitlab-ctl",
+          "repmgr-check-master"
+        ],
+        "postgresql_service_check_args_patroni": [
+          "/opt/gitlab/bin/gitlab-ctl",
+          "patroni",
+          "check-leader"
+        ],
+        "postgresql_watches_repmgr": [
+          {
+            "type": "keyprefix",
+            "prefix": "gitlab/ha/postgresql/failed_masters/",
+            "args": [
+              "/opt/gitlab/bin/gitlab-ctl",
+              "consul",
+              "watchers",
+              "handle-failed-master"
+            ]
+          }
+        ]
+      },
+      "watchers": [
+
+      ],
+      "watcher_config": {
+        "postgresql": {
+          "handler": "failover_pgbouncer"
+        }
+      }
+    },
+    "gitaly": {
+      "enable": true,
+      "ha": false,
+      "dir": "/var/opt/gitlab/gitaly",
+      "internal_socket_dir": "/var/opt/gitlab/gitaly/internal_sockets",
+      "log_directory": "/var/log/gitlab/gitaly",
+      "env_directory": "/opt/gitlab/etc/gitaly/env",
+      "graceful_restart_timeout": null,
+      "bin_path": "/opt/gitlab/embedded/bin/gitaly",
+      "socket_path": "/var/opt/gitlab/gitaly/gitaly.socket",
+      "listen_addr": null,
+      "tls_listen_addr": null,
+      "certificate_path": null,
+      "key_path": null,
+      "prometheus_listen_addr": "localhost:9236",
+      "logging_level": null,
+      "logging_format": "json",
+      "logging_sentry_dsn": null,
+      "logging_ruby_sentry_dsn": null,
+      "logging_sentry_environment": null,
+      "prometheus_grpc_latency_buckets": null,
+      "storage": [
+
+      ],
+      "auth_token": null,
+      "auth_transitioning": false,
+      "git_catfile_cache_size": null,
+      "open_files_ulimit": 15000,
+      "ruby_max_rss": null,
+      "ruby_graceful_restart_timeout": null,
+      "ruby_restart_delay": null,
+      "ruby_num_workers": null,
+      "ruby_rugged_git_config_search_path": "/opt/gitlab/embedded/etc",
+      "concurrency": null,
+      "env": {
+        "HOME": "/var/opt/gitlab",
+        "PATH": "/opt/gitlab/bin:/opt/gitlab/embedded/bin:/bin:/usr/bin",
+        "TZ": ":/etc/localtime",
+        "PYTHONPATH": "/opt/gitlab/embedded/lib/python3.7/site-packages",
+        "ICU_DATA": "/opt/gitlab/embedded/share/icu/current",
+        "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/",
+        "GITALY_PID_FILE": "/var/opt/gitlab/gitaly/gitaly.pid",
+        "WRAPPER_JSON_LOGGING": "true"
+      }
+    },
+    "acme": {
+      "contact": [
+
+      ],
+      "dir": "https://acme-v02.api.letsencrypt.org/directory",
+      "renew": 30,
+      "source_ips": [
+        "66.133.109.36",
+        "64.78.149.164"
+      ],
+      "private_key": null,
+      "gem_version": "2.0.3",
+      "key_size": 2048
+    },
+    "crond": {
+      "enable": false,
+      "log_directory": "/var/log/gitlab/crond",
+      "cron_d": "/var/opt/gitlab/crond"
+    },
+    "letsencrypt": {
+      "auto_renew": true,
+      "auto_renew_hour": 0,
+      "auto_renew_minute": null,
+      "auto_renew_day_of_month": "*/4",
+      "alt_names": [
+
+      ],
+      "authorization_method": "http",
+      "chain": null,
+      "contact_emails": [
+
+      ],
+      "crt": null,
+      "enable": null,
+      "group": null,
+      "key_size": null,
+      "owner": null,
+      "wwwroot": "/var/opt/gitlab/nginx/www"
+    },
+    "mattermost": {
+      "enable": false,
+      "username": "mattermost",
+      "group": "mattermost",
+      "uid": null,
+      "gid": null,
+      "home": "/var/opt/gitlab/mattermost",
+      "database_name": "mattermost_production",
+      "env_directory": "/opt/gitlab/etc/mattermost/env",
+      "env": {
+        "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/"
+      },
+      "log_file_directory": "/var/log/gitlab/mattermost",
+      "service_use_ssl": false,
+      "service_address": "127.0.0.1",
+      "service_port": "8065",
+      "service_site_url": null,
+      "service_allowed_untrusted_internal_connections": null,
+      "service_enable_api_team_deletion": true,
+      "sql_driver_name": "postgres",
+      "sql_data_source": null,
+      "gitlab": {
+
+      },
+      "file_directory": "/var/opt/gitlab/mattermost/data",
+      "team_site_name": "GitLab Mattermost",
+      "gitlab_enable": false,
+      "gitlab_secret": null,
+      "gitlab_id": null,
+      "gitlab_scope": null,
+      "gitlab_auth_endpoint": null,
+      "gitlab_token_endpoint": null,
+      "gitlab_user_api_endpoint": null,
+      "plugin_directory": "/var/opt/gitlab/mattermost/plugins",
+      "plugin_client_directory": "/var/opt/gitlab/mattermost/client-plugins"
+    },
+    "postgresql": {
+      "enable": true,
+      "ha": false,
+      "dir": "/var/opt/gitlab/postgresql",
+      "data_dir": "/var/opt/gitlab/postgresql/data",
+      "unix_socket_directory": "/var/opt/gitlab/postgresql",
+      "username": "gitlab-psql",
+      "group": "gitlab-psql",
+      "uid": null,
+      "gid": null,
+      "shell": "/bin/sh",
+      "home": "/var/opt/gitlab/postgresql",
+      "user_path": "/opt/gitlab/embedded/bin:/opt/gitlab/bin:$PATH",
+      "sql_user": "gitlab",
+      "sql_user_password": null,
+      "sql_mattermost_user": "gitlab_mattermost",
+      "port": 5432,
+      "connect_port": null,
+      "listen_address": null,
+      "max_connections": 200,
+      "md5_auth_cidr_addresses": [
+
+      ],
+      "trust_auth_cidr_addresses": [
+
+      ],
+      "ssl": "on",
+      "ssl_ciphers": "HIGH:MEDIUM:+3DES:!aNULL:!SSLv3:!TLSv1",
+      "ssl_cert_file": "server.crt",
+      "ssl_key_file": "server.key",
+      "ssl_ca_file": "/opt/gitlab/embedded/ssl/certs/cacert.pem",
+      "ssl_crl_file": null,
+      "shmmax": 17179869184,
+      "shmall": 4194304,
+      "semmsl": 250,
+      "semmns": 32000,
+      "semopm": 32,
+      "semmni": 262,
+      "shared_buffers": "945MB",
+      "work_mem": "16MB",
+      "maintenance_work_mem": "16MB",
+      "effective_cache_size": "1890MB",
+      "log_min_duration_statement": -1,
+      "checkpoint_segments": 10,
+      "min_wal_size": "80MB",
+      "max_wal_size": "1GB",
+      "checkpoint_timeout": "5min",
+      "checkpoint_completion_target": 0.9,
+      "checkpoint_warning": "30s",
+      "wal_buffers": "-1",
+      "autovacuum": "on",
+      "log_autovacuum_min_duration": "-1",
+      "autovacuum_max_workers": "3",
+      "autovacuum_naptime": "1min",
+      "autovacuum_vacuum_threshold": "50",
+      "autovacuum_analyze_threshold": "50",
+      "autovacuum_vacuum_scale_factor": "0.02",
+      "autovacuum_analyze_scale_factor": "0.01",
+      "autovacuum_freeze_max_age": "200000000",
+      "autovacuum_vacuum_cost_delay": "20ms",
+      "autovacuum_vacuum_cost_limit": "-1",
+      "statement_timeout": "60000",
+      "idle_in_transaction_session_timeout": "60000",
+      "log_line_prefix": null,
+      "log_statement": null,
+      "track_activity_query_size": "1024",
+      "shared_preload_libraries": null,
+      "dynamic_shared_memory_type": null,
+      "random_page_cost": 2.0,
+      "max_locks_per_transaction": 128,
+      "log_temp_files": -1,
+      "log_checkpoints": "off",
+      "custom_pg_hba_entries": {
+
+      },
+      "effective_io_concurrency": 1,
+      "max_worker_processes": 8,
+      "max_parallel_workers_per_gather": 0,
+      "log_lock_waits": 1,
+      "deadlock_timeout": "5s",
+      "track_io_timing": "off",
+      "default_statistics_target": 1000,
+      "log_destination": null,
+      "logging_collector": null,
+      "log_directory": "/var/log/gitlab/postgresql",
+      "log_truncate_on_rotation": null,
+      "log_rotation_age": null,
+      "log_rotation_size": null,
+      "sql_replication_user": "gitlab_replicator",
+      "wal_level": "minimal",
+      "max_wal_senders": 0,
+      "wal_keep_segments": 10,
+      "hot_standby": "off",
+      "max_standby_archive_delay": "30s",
+      "max_standby_streaming_delay": "30s",
+      "max_replication_slots": 0,
+      "synchronous_commit": "on",
+      "synchronous_standby_names": "",
+      "hot_standby_feedback": "off",
+      "archive_mode": "off",
+      "archive_command": null,
+      "archive_timeout": "0",
+      "version": null
+    },
+    "monitoring": {
+      "prometheus": {
+        "enable": true,
+        "monitor_kubernetes": true,
+        "username": "gitlab-prometheus",
+        "group": "gitlab-prometheus",
+        "uid": null,
+        "gid": null,
+        "shell": "/bin/sh",
+        "home": "/var/opt/gitlab/prometheus",
+        "log_directory": "/var/log/gitlab/prometheus",
+        "env_directory": "/opt/gitlab/etc/prometheus/env",
+        "env": {
+          "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/"
+        },
+        "remote_read": [
+
+        ],
+        "remote_write": [
+
+        ],
+        "rules_directory": "/var/opt/gitlab/prometheus/rules",
+        "scrape_interval": 15,
+        "scrape_timeout": 15,
+        "scrape_configs": [
+
+        ],
+        "listen_address": "localhost:9090",
+        "alertmanagers": null
+      },
+      "alertmanager": {
+        "enable": true,
+        "home": "/var/opt/gitlab/alertmanager",
+        "log_directory": "/var/log/gitlab/alertmanager",
+        "env_directory": "/opt/gitlab/etc/alertmanager/env",
+        "env": {
+          "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/"
+        },
+        "listen_address": "localhost:9093",
+        "admin_email": null,
+        "inhibit_rules": [
+
+        ],
+        "receivers": [
+
+        ],
+        "routes": [
+
+        ],
+        "templates": [
+
+        ],
+        "global": {
+
+        }
+      },
+      "node-exporter": {
+        "enable": true,
+        "home": "/var/opt/gitlab/node-exporter",
+        "log_directory": "/var/log/gitlab/node-exporter",
+        "env_directory": "/opt/gitlab/etc/node-exporter/env",
+        "env": {
+          "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/"
+        },
+        "listen_address": "localhost:9100"
+      },
+      "redis-exporter": {
+        "enable": true,
+        "log_directory": "/var/log/gitlab/redis-exporter",
+        "env_directory": "/opt/gitlab/etc/redis-exporter/env",
+        "env": {
+          "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/"
+        },
+        "listen_address": "localhost:9121"
+      },
+      "postgres-exporter": {
+        "enable": true,
+        "home": "/var/opt/gitlab/postgres-exporter",
+        "log_directory": "/var/log/gitlab/postgres-exporter",
+        "listen_address": "localhost:9187",
+        "env_directory": "/opt/gitlab/etc/postgres-exporter/env",
+        "env": {
+          "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/",
+          "DATA_SOURCE_NAME": "user=gitlab-psql host=/var/opt/gitlab/postgresql database=postgres"
+        },
+        "sslmode": null
+      },
+      "gitlab-exporter": {
+        "enable": true,
+        "log_directory": "/var/log/gitlab/gitlab-exporter",
+        "home": "/var/opt/gitlab/gitlab-exporter",
+        "listen_address": "localhost",
+        "listen_port": "9168",
+        "probe_sidekiq": true
+      },
+      "grafana": {
+        "enable": true,
+        "log_directory": "/var/log/gitlab/grafana",
+        "home": "/var/opt/gitlab/grafana",
+        "http_addr": "localhost",
+        "http_port": 3000,
+        "admin_password": null,
+        "basic_auth_enabled": false,
+        "disable_login_form": true,
+        "allow_user_sign_up": false,
+        "gitlab_application_id": null,
+        "gitlab_secret": null,
+        "allowed_groups": [
+
+        ],
+        "gitlab_auth_sign_up": true,
+        "dashboards": [
+          {
+            "name": "GitLab Omnibus",
+            "orgId": 1,
+            "folder": "GitLab Omnibus",
+            "type": "file",
+            "disableDeletion": true,
+            "updateIntervalSeconds": 600,
+            "options": {
+              "path": "/opt/gitlab/embedded/service/grafana-dashboards"
+            }
+          }
+        ],
+        "datasources": null,
+        "env_directory": "/opt/gitlab/etc/grafana/env",
+        "env": {
+          "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/"
+        },
+        "metrics_enabled": false,
+        "metrics_basic_auth_username": null,
+        "metrics_basic_auth_password": null,
+        "alerting_enabled": false
+      }
+    },
+    "gitlab": {
+      "prometheus-monitoring": {
+        "enable": true
+      },
+      "bootstrap": {
+        "enable": true
+      },
+      "omnibus-gitconfig": {
+        "system": {
+          "pack": [
+            "threads = 1",
+            "useSparse = true"
+          ],
+          "receive": [
+            "fsckObjects = true",
+            "advertisePushOptions = true"
+          ],
+          "repack": [
+            "writeBitmaps = true"
+          ],
+          "transfer": [
+            "hideRefs=^refs/tmp/",
+            "hideRefs=^refs/keep-around/",
+            "hideRefs=^refs/remotes/"
+          ],
+          "core": [
+            "alternateRefsCommand=\"exit 0 #\"",
+            "fsyncObjectFiles = true"
+          ],
+          "fetch": [
+            "writeCommitGraph = true"
+          ]
+        }
+      },
+      "manage-accounts": {
+        "enable": true
+      },
+      "manage-storage-directories": {
+        "enable": true,
+        "manage_etc": true
+      },
+      "runtime-dir": null,
+      "user": {
+        "username": "git",
+        "group": "git",
+        "uid": null,
+        "gid": null,
+        "shell": "/bin/sh",
+        "home": "/var/opt/gitlab",
+        "git_user_name": "GitLab",
+        "git_user_email": "gitlab@ec90f3132446"
+      },
+      "gitlab-rails": {
+        "enable": true,
+        "dir": "/var/opt/gitlab/gitlab-rails",
+        "log_directory": "/var/log/gitlab/gitlab-rails",
+        "environment": "production",
+        "env": {
+          "SIDEKIQ_MEMORY_KILLER_MAX_RSS": "2000000",
+          "BUNDLE_GEMFILE": "/opt/gitlab/embedded/service/gitlab-rails/Gemfile",
+          "PATH": "/opt/gitlab/bin:/opt/gitlab/embedded/bin:/bin:/usr/bin",
+          "ICU_DATA": "/opt/gitlab/embedded/share/icu/current",
+          "PYTHONPATH": "/opt/gitlab/embedded/lib/python3.7/site-packages",
+          "EXECJS_RUNTIME": "Disabled",
+          "TZ": ":/etc/localtime"
+        },
+        "enable_jemalloc": true,
+        "internal_api_url": null,
+        "uploads_directory": "/var/opt/gitlab/gitlab-rails/uploads",
+        "auto_migrate": true,
+        "rake_cache_clear": true,
+        "gitlab_host": "ec90f3132446",
+        "gitlab_port": 80,
+        "gitlab_https": false,
+        "gitlab_ssh_user": null,
+        "gitlab_ssh_host": null,
+        "time_zone": null,
+        "gitlab_email_from": null,
+        "gitlab_email_display_name": null,
+        "gitlab_email_subject_suffix": null,
+        "gitlab_email_smime_enabled": false,
+        "gitlab_email_smime_key_file": "/etc/gitlab/ssl/gitlab_smime.key",
+        "gitlab_email_smime_cert_file": "/etc/gitlab/ssl/gitlab_smime.crt",
+        "gitlab_email_smime_ca_certs_file": null,
+        "gitlab_default_can_create_group": null,
+        "gitlab_username_changing_enabled": null,
+        "gitlab_default_theme": null,
+        "gitlab_default_projects_features_issues": null,
+        "gitlab_default_projects_features_merge_requests": null,
+        "gitlab_default_projects_features_wiki": null,
+        "gitlab_default_projects_features_wall": null,
+        "gitlab_default_projects_features_snippets": null,
+        "gitlab_default_projects_features_builds": null,
+        "gitlab_default_projects_features_container_registry": null,
+        "gitlab_issue_closing_pattern": null,
+        "gitlab_repository_downloads_path": null,
+        "gravatar_plain_url": null,
+        "gravatar_ssl_url": null,
+        "stuck_ci_jobs_worker_cron": null,
+        "expire_build_artifacts_worker_cron": null,
+        "environments_auto_stop_cron_worker_cron": null,
+        "pipeline_schedule_worker_cron": null,
+        "repository_check_worker_cron": null,
+        "admin_email_worker_cron": null,
+        "personal_access_tokens_expiring_worker_cron": null,
+        "repository_archive_cache_worker_cron": null,
+        "ci_archive_traces_cron_worker": null,
+        "pages_domain_verification_cron_worker": null,
+        "pages_domain_ssl_renewal_cron_worker": null,
+        "pages_domain_removal_cron_worker": null,
+        "schedule_migrate_external_diffs_worker_cron": null,
+        "historical_data_worker_cron": null,
+        "ldap_sync_worker_cron": null,
+        "ldap_group_sync_worker_cron": null,
+        "geo_file_download_dispatch_worker_cron": null,
+        "geo_repository_sync_worker_cron": null,
+        "geo_secondary_registry_consistency_worker": null,
+        "geo_prune_event_log_worker_cron": null,
+        "geo_repository_verification_primary_batch_worker_cron": null,
+        "geo_repository_verification_secondary_scheduler_worker_cron": null,
+        "geo_migrated_local_files_clean_up_worker_cron": null,
+        "pseudonymizer_worker_cron": null,
+        "elastic_index_bulk_cron": null,
+        "incoming_email_enabled": false,
+        "incoming_email_address": null,
+        "incoming_email_host": null,
+        "incoming_email_port": null,
+        "incoming_email_ssl": null,
+        "incoming_email_start_tls": null,
+        "incoming_email_email": null,
+        "incoming_email_password": null,
+        "incoming_email_mailbox_name": "inbox",
+        "incoming_email_idle_timeout": null,
+        "incoming_email_log_file": "/var/log/gitlab/mailroom/mail_room_json.log",
+        "incoming_email_expunge_deleted": null,
+        "service_desk_email_enabled": false,
+        "service_desk_email_address": null,
+        "service_desk_email_host": null,
+        "service_desk_email_port": null,
+        "service_desk_email_ssl": null,
+        "service_desk_email_start_tls": null,
+        "service_desk_email_email": null,
+        "service_desk_email_password": null,
+        "service_desk_email_mailbox_name": "inbox",
+        "service_desk_email_idle_timeout": null,
+        "service_desk_email_log_file": "/var/log/gitlab/mailroom/mail_room_json.log",
+        "artifacts_enabled": true,
+        "artifacts_path": null,
+        "artifacts_object_store_enabled": false,
+        "artifacts_object_store_direct_upload": false,
+        "artifacts_object_store_background_upload": true,
+        "artifacts_object_store_proxy_download": false,
+        "artifacts_object_store_remote_directory": "artifacts",
+        "artifacts_object_store_connection": {
+
+        },
+        "external_diffs_enabled": null,
+        "external_diffs_when": null,
+        "external_diffs_storage_path": null,
+        "external_diffs_object_store_enabled": false,
+        "external_diffs_object_store_direct_upload": false,
+        "external_diffs_object_store_background_upload": true,
+        "external_diffs_object_store_proxy_download": false,
+        "external_diffs_object_store_remote_directory": "external-diffs",
+        "external_diffs_object_store_connection": {
+
+        },
+        "lfs_enabled": null,
+        "lfs_storage_path": null,
+        "lfs_object_store_enabled": false,
+        "lfs_object_store_direct_upload": false,
+        "lfs_object_store_background_upload": true,
+        "lfs_object_store_proxy_download": false,
+        "lfs_object_store_remote_directory": "lfs-objects",
+        "lfs_object_store_connection": {
+
+        },
+        "uploads_storage_path": null,
+        "uploads_base_dir": null,
+        "uploads_object_store_enabled": false,
+        "uploads_object_store_direct_upload": false,
+        "uploads_object_store_background_upload": true,
+        "uploads_object_store_proxy_download": false,
+        "uploads_object_store_remote_directory": "uploads",
+        "uploads_object_store_connection": {
+
+        },
+        "packages_enabled": null,
+        "packages_storage_path": null,
+        "packages_object_store_enabled": false,
+        "packages_object_store_direct_upload": false,
+        "packages_object_store_background_upload": true,
+        "packages_object_store_proxy_download": false,
+        "packages_object_store_remote_directory": "packages",
+        "packages_object_store_connection": {
+
+        },
+        "dependency_proxy_enabled": null,
+        "dependency_proxy_storage_path": null,
+        "dependency_proxy_object_store_enabled": false,
+        "dependency_proxy_object_store_direct_upload": false,
+        "dependency_proxy_object_store_background_upload": true,
+        "dependency_proxy_object_store_proxy_download": false,
+        "dependency_proxy_object_store_remote_directory": "dependency_proxy",
+        "dependency_proxy_object_store_connection": {
+
+        },
+        "terraform_state_enabled": null,
+        "terraform_state_storage_path": null,
+        "terraform_state_object_store_enabled": false,
+        "terraform_state_object_store_remote_directory": "terraform_state",
+        "terraform_state_object_store_connection": {
+
+        },
+        "ldap_enabled": false,
+        "prevent_ldap_sign_in": false,
+        "ldap_servers": [
+
+        ],
+        "pages_enabled": false,
+        "pages_host": null,
+        "pages_port": null,
+        "pages_https": false,
+        "pages_path": null,
+        "registry_enabled": false,
+        "registry_host": null,
+        "registry_port": null,
+        "registry_api_url": null,
+        "registry_key_path": "/var/opt/gitlab/gitlab-rails/etc/gitlab-registry.key",
+        "registry_path": null,
+        "registry_issuer": "omnibus-gitlab-issuer",
+        "registry_notification_secret": null,
+        "impersonation_enabled": null,
+        "seat_link_enabled": true,
+        "sentry_enabled": false,
+        "sentry_dsn": null,
+        "sentry_clientside_dsn": null,
+        "sentry_environment": null,
+        "usage_ping_enabled": null,
+        "repositories_storages": {
+
+        },
+        "ldap_host": null,
+        "ldap_base": null,
+        "ldap_port": null,
+        "ldap_uid": null,
+        "ldap_method": null,
+        "ldap_bind_dn": null,
+        "ldap_password": null,
+        "ldap_allow_username_or_email_login": null,
+        "ldap_lowercase_usernames": null,
+        "ldap_user_filter": null,
+        "ldap_group_base": null,
+        "ldap_admin_group": null,
+        "ldap_sync_ssh_keys": null,
+        "ldap_sync_time": null,
+        "ldap_active_directory": null,
+        "smartcard_enabled": false,
+        "smartcard_ca_file": "/etc/gitlab/ssl/CA.pem",
+        "smartcard_client_certificate_required_host": null,
+        "smartcard_client_certificate_required_port": 3444,
+        "smartcard_required_for_git_access": false,
+        "smartcard_san_extensions": false,
+        "kerberos_enabled": null,
+        "kerberos_keytab": null,
+        "kerberos_service_principal_name": null,
+        "kerberos_use_dedicated_port": null,
+        "kerberos_port": null,
+        "kerberos_https": null,
+        "omniauth_enabled": null,
+        "omniauth_allow_single_sign_on": [
+          "saml"
+        ],
+        "omniauth_sync_email_from_provider": null,
+        "omniauth_sync_profile_from_provider": null,
+        "omniauth_sync_profile_attributes": null,
+        "omniauth_auto_sign_in_with_provider": null,
+        "omniauth_block_auto_created_users": null,
+        "omniauth_auto_link_ldap_user": null,
+        "omniauth_auto_link_saml_user": null,
+        "omniauth_external_providers": null,
+        "omniauth_providers": [
+
+        ],
+        "omniauth_allow_bypass_two_factor": null,
+        "shared_path": "/var/opt/gitlab/gitlab-rails/shared",
+        "backup_path": "/var/opt/gitlab/backups",
+        "manage_backup_path": true,
+        "backup_archive_permissions": null,
+        "backup_pg_schema": null,
+        "backup_keep_time": null,
+        "backup_upload_connection": null,
+        "backup_upload_remote_directory": null,
+        "backup_multipart_chunk_size": null,
+        "backup_encryption": null,
+        "backup_encryption_key": null,
+        "backup_storage_class": null,
+        "pseudonymizer_manifest": null,
+        "pseudonymizer_upload_remote_directory": null,
+        "pseudonymizer_upload_connection": {
+
+        },
+        "gitlab_shell_path": "/opt/gitlab/embedded/service/gitlab-shell/",
+        "gitlab_shell_hooks_path": "/opt/gitlab/embedded/service/gitlab-shell/hooks/",
+        "gitlab_shell_upload_pack": null,
+        "gitlab_shell_receive_pack": null,
+        "gitlab_shell_ssh_port": null,
+        "gitlab_shell_git_timeout": 10800,
+        "git_bin_path": "/opt/gitlab/embedded/bin/git",
+        "extra_google_analytics_id": null,
+        "extra_piwik_url": null,
+        "extra_piwik_site_id": null,
+        "rack_attack_git_basic_auth": null,
+        "db_adapter": "postgresql",
+        "db_encoding": "unicode",
+        "db_collation": null,
+        "db_database": "gitlabhq_production",
+        "db_pool": 1,
+        "db_username": "gitlab",
+        "db_password": null,
+        "db_load_balancing": {
+          "hosts": [
+
+          ]
+        },
+        "db_host": "/var/opt/gitlab/postgresql",
+        "db_port": 5432,
+        "db_socket": null,
+        "db_sslmode": null,
+        "db_sslcompression": 0,
+        "db_sslrootcert": null,
+        "db_sslcert": null,
+        "db_sslkey": null,
+        "db_sslca": null,
+        "db_prepared_statements": false,
+        "db_statements_limit": 1000,
+        "db_fdw": null,
+        "db_statement_timeout": null,
+        "redis_host": "127.0.0.1",
+        "redis_port": null,
+        "redis_ssl": false,
+        "redis_password": null,
+        "redis_socket": "/var/opt/gitlab/redis/redis.socket",
+        "redis_enable_client": true,
+        "redis_sentinels": [
+
+        ],
+        "redis_cache_instance": null,
+        "redis_cache_sentinels": [
+
+        ],
+        "redis_queues_instance": null,
+        "redis_queues_sentinels": [
+
+        ],
+        "redis_shared_state_instance": null,
+        "redis_shared_state_sentinels": [
+
+        ],
+        "redis_actioncable_instance": null,
+        "redis_actioncable_sentinels": [
+
+        ],
+        "smtp_enable": false,
+        "smtp_address": null,
+        "smtp_port": null,
+        "smtp_user_name": null,
+        "smtp_password": null,
+        "smtp_domain": null,
+        "smtp_authentication": null,
+        "smtp_enable_starttls_auto": null,
+        "smtp_tls": null,
+        "smtp_openssl_verify_mode": null,
+        "smtp_ca_path": null,
+        "smtp_ca_file": "/opt/gitlab/embedded/ssl/certs/cacert.pem",
+        "trusted_certs_dir": "/etc/gitlab/trusted-certs",
+        "webhook_timeout": null,
+        "graphql_timeout": null,
+        "initial_root_password": null,
+        "initial_license_file": null,
+        "initial_shared_runners_registration_token": null,
+        "trusted_proxies": null,
+        "content_security_policy": null,
+        "monitoring_whitelist": [
+          "127.0.0.0/8",
+          "::1/128"
+        ],
+        "monitoring_unicorn_sampler_interval": 10,
+        "shutdown_blackout_seconds": 10,
+        "dependent_services": [
+          "puma",
+          "actioncable",
+          "sidekiq",
+          "sidekiq-cluster"
+        ],
+        "feature_flags_unleash_enabled": false,
+        "feature_flags_unleash_url": null,
+        "feature_flags_unleash_app_name": null,
+        "feature_flags_unleash_instance_id": null
+      },
+      "unicorn": {
+        "enable": false,
+        "ha": false,
+        "log_directory": "/var/log/gitlab/unicorn",
+        "listen": "127.0.0.1",
+        "port": 8080,
+        "socket": "/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket",
+        "pidfile": "/opt/gitlab/var/unicorn/unicorn.pid",
+        "tcp_nopush": true,
+        "backlog_socket": 1024,
+        "somaxconn": 1024,
+        "worker_timeout": 60,
+        "worker_memory_limit_min": "1024 * 1 << 20",
+        "worker_memory_limit_max": "1280 * 1 << 20",
+        "worker_processes": null,
+        "exporter_enabled": false,
+        "exporter_address": "127.0.0.1",
+        "exporter_port": 8083
+      },
+      "puma": {
+        "enable": true,
+        "ha": false,
+        "log_directory": "/var/log/gitlab/puma",
+        "listen": "127.0.0.1",
+        "port": 8080,
+        "socket": "/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket",
+        "pidfile": "/opt/gitlab/var/puma/puma.pid",
+        "state_path": "/opt/gitlab/var/puma/puma.state",
+        "worker_timeout": 60,
+        "per_worker_max_memory_mb": null,
+        "worker_processes": 2,
+        "min_threads": 4,
+        "max_threads": 4,
+        "exporter_enabled": false,
+        "exporter_address": "127.0.0.1",
+        "exporter_port": 8083
+      },
+      "actioncable": {
+        "enable": false,
+        "ha": false,
+        "log_directory": "/var/log/gitlab/actioncable",
+        "listen": "127.0.0.1",
+        "port": 8280,
+        "socket": "/var/opt/gitlab/gitlab-rails/sockets/gitlab_actioncable.socket",
+        "pidfile": "/opt/gitlab/var/actioncable/actioncable.pid",
+        "state_path": "/opt/gitlab/var/actioncable/actioncable.state",
+        "worker_timeout": 60,
+        "per_worker_max_memory_mb": null,
+        "worker_processes": 2,
+        "min_threads": 4,
+        "max_threads": 4,
+        "worker_pool_size": 4
+      },
+      "sidekiq": {
+        "enable": true,
+        "ha": false,
+        "log_directory": "/var/log/gitlab/sidekiq",
+        "log_format": "json",
+        "shutdown_timeout": 25,
+        "concurrency": 25,
+        "metrics_enabled": true,
+        "listen_address": "127.0.0.1",
+        "listen_port": 8082,
+        "cluster": true,
+        "experimental_queue_selector": false,
+        "interval": null,
+        "max_concurrency": 50,
+        "min_concurrency": null,
+        "negate": false,
+        "queue_groups": [
+          "*"
+        ]
+      },
+      "sidekiq-cluster": {
+        "enable": false,
+        "ha": false,
+        "log_directory": "/var/log/gitlab/sidekiq-cluster",
+        "interval": null,
+        "max_concurrency": null,
+        "min_concurrency": null,
+        "queue_groups": [
+
+        ],
+        "negate": false,
+        "experimental_queue_selector": false
+      },
+      "gitlab-shell": {
+        "dir": "/var/opt/gitlab/gitlab-shell",
+        "log_directory": "/var/log/gitlab/gitlab-shell/",
+        "log_level": null,
+        "log_format": "json",
+        "audit_usernames": null,
+        "http_settings": null,
+        "auth_file": null,
+        "git_trace_log_file": null,
+        "custom_hooks_dir": null,
+        "migration": {
+          "enabled": true,
+          "features": [
+
+          ]
+        },
+        "git_data_directories": {
+          "default": {
+            "path": "/var/opt/gitlab/git-data"
+          }
+        }
+      },
+      "web-server": {
+        "username": "gitlab-www",
+        "group": "gitlab-www",
+        "uid": null,
+        "gid": null,
+        "shell": "/bin/false",
+        "home": "/var/opt/gitlab/nginx",
+        "external_users": [
+
+        ]
+      },
+      "gitlab-workhorse": {
+        "enable": true,
+        "ha": false,
+        "listen_network": "unix",
+        "listen_umask": 0,
+        "listen_addr": "/var/opt/gitlab/gitlab-workhorse/socket",
+        "auth_backend": "http://localhost:8080",
+        "auth_socket": null,
+        "cable_backend": "http://localhost:8280",
+        "cable_socket": "''",
+        "pprof_listen_addr": "''",
+        "prometheus_listen_addr": "localhost:9229",
+        "dir": "/var/opt/gitlab/gitlab-workhorse",
+        "log_directory": "/var/log/gitlab/gitlab-workhorse",
+        "proxy_headers_timeout": null,
+        "api_limit": null,
+        "api_queue_duration": null,
+        "api_queue_limit": null,
+        "api_ci_long_polling_duration": null,
+        "log_format": "json",
+        "env_directory": "/opt/gitlab/etc/gitlab-workhorse/env",
+        "env": {
+          "PATH": "/opt/gitlab/bin:/opt/gitlab/embedded/bin:/bin:/usr/bin",
+          "HOME": "/var/opt/gitlab",
+          "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/"
+        }
+      },
+      "mailroom": {
+        "enable": false,
+        "ha": false,
+        "log_directory": "/var/log/gitlab/mailroom",
+        "exit_log_format": "plain"
+      },
+      "gitlab-pages": {
+        "enable": false,
+        "external_http": null,
+        "external_https": null,
+        "listen_proxy": "localhost:8090",
+        "gitlab_server": null,
+        "internal_gitlab_server": null,
+        "http_proxy": null,
+        "metrics_address": null,
+        "pages_path": null,
+        "domain": null,
+        "cert": null,
+        "cert_key": null,
+        "redirect_http": false,
+        "use_http2": true,
+        "dir": "/var/opt/gitlab/gitlab-pages",
+        "log_directory": "/var/log/gitlab/gitlab-pages",
+        "status_uri": null,
+        "max_connections": null,
+        "log_format": "json",
+        "artifacts_server": true,
+        "artifacts_server_url": null,
+        "artifacts_server_timeout": 10,
+        "inplace_chroot": false,
+        "log_verbose": false,
+        "access_control": false,
+        "gitlab_id": null,
+        "gitlab_secret": null,
+        "auth_redirect_uri": null,
+        "auth_secret": null,
+        "insecure_ciphers": false,
+        "tls_min_version": null,
+        "tls_max_version": null,
+        "sentry_enabled": false,
+        "sentry_dsn": null,
+        "sentry_environment": null,
+        "headers": null,
+        "api_secret_key": null,
+        "gitlab_client_http_timeout": null,
+        "gitlab_client_jwt_expiry": null,
+        "env_directory": "/opt/gitlab/etc/gitlab-pages/env"
+      },
+      "nginx": {
+        "enable": true,
+        "ha": false,
+        "dir": "/var/opt/gitlab/nginx",
+        "log_directory": "/var/log/gitlab/nginx",
+        "worker_processes": 2,
+        "worker_connections": 10240,
+        "log_format": "$remote_addr - $remote_user [$time_local] \"$request_method $filtered_request_uri $server_protocol\" $status $body_bytes_sent \"$filtered_http_referer\" \"$http_user_agent\" $gzip_ratio",
+        "sendfile": "on",
+        "tcp_nopush": "on",
+        "tcp_nodelay": "on",
+        "gzip": "on",
+        "gzip_http_version": "1.1",
+        "gzip_comp_level": "2",
+        "gzip_proxied": "no-cache no-store private expired auth",
+        "gzip_types": [
+          "text/plain",
+          "text/css",
+          "application/x-javascript",
+          "text/xml",
+          "application/xml",
+          "application/xml+rss",
+          "text/javascript",
+          "application/json"
+        ],
+        "keepalive_timeout": 65,
+        "client_max_body_size": 0,
+        "cache_max_size": "5000m",
+        "redirect_http_to_https": false,
+        "redirect_http_to_https_port": 80,
+        "request_buffering_off_path_regex": ".git/git-receive-pack$|.git/info/refs?service=git-receive-pack$|.git/gitlab-lfs/objects|.git/info/lfs/objects/batch$",
+        "ssl_client_certificate": null,
+        "ssl_verify_client": null,
+        "ssl_verify_depth": "1",
+        "ssl_certificate": "/etc/gitlab/ssl/ec90f3132446.crt",
+        "ssl_certificate_key": "/etc/gitlab/ssl/ec90f3132446.key",
+        "ssl_ciphers": "ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA256:ECDHE-RSA-AES256-SHA:ECDHE-RSA-AES128-SHA:AES256-GCM-SHA384:AES128-GCM-SHA256:AES256-SHA256:AES128-SHA256:AES256-SHA:AES128-SHA:!aNULL:!eNULL:!EXPORT:!DES:!MD5:!PSK:!RC4",
+        "ssl_prefer_server_ciphers": "on",
+        "ssl_protocols": "TLSv1.2 TLSv1.3",
+        "ssl_session_cache": "builtin:1000  shared:SSL:10m",
+        "ssl_session_timeout": "5m",
+        "ssl_dhparam": null,
+        "listen_addresses": [
+          "*"
+        ],
+        "listen_port": null,
+        "listen_https": null,
+        "custom_gitlab_server_config": null,
+        "custom_nginx_config": null,
+        "proxy_read_timeout": 3600,
+        "proxy_connect_timeout": 300,
+        "proxy_set_headers": {
+          "Host": "$http_host_with_default",
+          "X-Real-IP": "$remote_addr",
+          "X-Forwarded-For": "$proxy_add_x_forwarded_for",
+          "Upgrade": "$http_upgrade",
+          "Connection": "$connection_upgrade"
+        },
+        "referrer_policy": "strict-origin-when-cross-origin",
+        "http2_enabled": true,
+        "proxy_cache_path": "proxy_cache keys_zone=gitlab:10m max_size=1g levels=1:2",
+        "proxy_cache": "gitlab",
+        "real_ip_trusted_addresses": [
+
+        ],
+        "real_ip_header": null,
+        "real_ip_recursive": null,
+        "server_names_hash_bucket_size": 64,
+        "hsts_max_age": 31536000,
+        "hsts_include_subdomains": false,
+        "gzip_enabled": true,
+        "status": {
+          "enable": true,
+          "listen_addresses": [
+            "*"
+          ],
+          "fqdn": "localhost",
+          "port": 8060,
+          "vts_enable": true,
+          "options": {
+            "server_tokens": "off",
+            "access_log": "off",
+            "allow": "127.0.0.1",
+            "deny": "all"
+          }
+        }
+      },
+      "logging": {
+        "svlogd_size": 209715200,
+        "svlogd_num": 30,
+        "svlogd_timeout": 86400,
+        "svlogd_filter": "gzip",
+        "svlogd_udp": null,
+        "svlogd_prefix": null,
+        "udp_log_shipping_host": null,
+        "udp_log_shipping_hostname": null,
+        "udp_log_shipping_port": 514,
+        "logrotate_frequency": "daily",
+        "logrotate_maxsize": null,
+        "logrotate_size": null,
+        "logrotate_rotate": 30,
+        "logrotate_compress": "compress",
+        "logrotate_method": "copytruncate",
+        "logrotate_postrotate": null,
+        "logrotate_dateformat": null
+      },
+      "remote-syslog": {
+        "enable": false,
+        "ha": false,
+        "dir": "/var/opt/gitlab/remote-syslog",
+        "log_directory": "/var/log/gitlab/remote-syslog",
+        "destination_host": "localhost",
+        "destination_port": 514,
+        "services": [
+          "redis",
+          "nginx",
+          "puma",
+          "unicorn",
+          "gitlab-rails",
+          "gitlab-shell",
+          "postgresql",
+          "sidekiq",
+          "gitlab-workhorse",
+          "gitlab-pages",
+          "praefect"
+        ]
+      },
+      "logrotate": {
+        "enable": true,
+        "ha": false,
+        "dir": "/var/opt/gitlab/logrotate",
+        "log_directory": "/var/log/gitlab/logrotate",
+        "services": [
+          "nginx",
+          "puma",
+          "actioncable",
+          "unicorn",
+          "gitlab-rails",
+          "gitlab-shell",
+          "gitlab-workhorse",
+          "gitlab-pages"
+        ],
+        "pre_sleep": 600,
+        "post_sleep": 3000
+      },
+      "high-availability": {
+        "mountpoint": null
+      },
+      "gitlab-ci": {
+        "dir": "/var/opt/gitlab/gitlab-ci",
+        "builds_directory": "/var/opt/gitlab/gitlab-ci/builds",
+        "schedule_builds_minute": "0",
+        "gitlab_ci_all_broken_builds": null,
+        "gitlab_ci_add_pusher": null
+      },
+      "mattermost-nginx": {
+        "enable": false,
+        "ha": false,
+        "dir": "/var/opt/gitlab/nginx",
+        "log_directory": "/var/log/gitlab/nginx",
+        "worker_processes": 2,
+        "worker_connections": 10240,
+        "log_format": "$remote_addr - $remote_user [$time_local] \"$request_method $filtered_request_uri $server_protocol\" $status $body_bytes_sent \"$filtered_http_referer\" \"$http_user_agent\" $gzip_ratio",
+        "sendfile": "on",
+        "tcp_nopush": "on",
+        "tcp_nodelay": "on",
+        "gzip": "on",
+        "gzip_http_version": "1.1",
+        "gzip_comp_level": "2",
+        "gzip_proxied": "no-cache no-store private expired auth",
+        "gzip_types": [
+          "text/plain",
+          "text/css",
+          "application/x-javascript",
+          "text/xml",
+          "application/xml",
+          "application/xml+rss",
+          "text/javascript",
+          "application/json"
+        ],
+        "keepalive_timeout": 65,
+        "client_max_body_size": 0,
+        "cache_max_size": "5000m",
+        "redirect_http_to_https": false,
+        "redirect_http_to_https_port": 80,
+        "request_buffering_off_path_regex": ".git/git-receive-pack$|.git/info/refs?service=git-receive-pack$|.git/gitlab-lfs/objects|.git/info/lfs/objects/batch$",
+        "ssl_client_certificate": null,
+        "ssl_verify_client": null,
+        "ssl_verify_depth": "1",
+        "ssl_certificate": "/etc/gitlab/ssl/ec90f3132446.crt",
+        "ssl_certificate_key": "/etc/gitlab/ssl/ec90f3132446.key",
+        "ssl_ciphers": "ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA256:ECDHE-RSA-AES256-SHA:ECDHE-RSA-AES128-SHA:AES256-GCM-SHA384:AES128-GCM-SHA256:AES256-SHA256:AES128-SHA256:AES256-SHA:AES128-SHA:!aNULL:!eNULL:!EXPORT:!DES:!MD5:!PSK:!RC4",
+        "ssl_prefer_server_ciphers": "on",
+        "ssl_protocols": "TLSv1.2 TLSv1.3",
+        "ssl_session_cache": "builtin:1000  shared:SSL:10m",
+        "ssl_session_timeout": "5m",
+        "ssl_dhparam": null,
+        "listen_addresses": [
+          "*"
+        ],
+        "listen_port": null,
+        "listen_https": null,
+        "custom_gitlab_server_config": null,
+        "custom_nginx_config": null,
+        "proxy_read_timeout": 3600,
+        "proxy_connect_timeout": 300,
+        "proxy_set_headers": {
+          "Host": "$http_host",
+          "X-Real-IP": "$remote_addr",
+          "X-Forwarded-For": "$proxy_add_x_forwarded_for",
+          "X-Forwarded-Proto": "$scheme",
+          "X-Frame-Options": "SAMEORIGIN",
+          "Upgrade": "$http_upgrade",
+          "Connection": "$connection_upgrade"
+        },
+        "referrer_policy": "strict-origin-when-cross-origin",
+        "http2_enabled": true,
+        "proxy_cache_path": "proxy_cache keys_zone=gitlab:10m max_size=1g levels=1:2",
+        "proxy_cache": "gitlab",
+        "real_ip_trusted_addresses": [
+
+        ],
+        "real_ip_header": null,
+        "real_ip_recursive": null,
+        "server_names_hash_bucket_size": 64,
+        "hsts_max_age": 31536000,
+        "hsts_include_subdomains": false,
+        "gzip_enabled": true,
+        "status": {
+          "enable": true,
+          "listen_addresses": [
+            "*"
+          ],
+          "fqdn": "localhost",
+          "port": 8060,
+          "vts_enable": true,
+          "options": {
+            "server_tokens": "off",
+            "access_log": "off",
+            "allow": "127.0.0.1",
+            "deny": "all"
+          }
+        }
+      },
+      "pages-nginx": {
+        "enable": true,
+        "ha": false,
+        "dir": "/var/opt/gitlab/nginx",
+        "log_directory": "/var/log/gitlab/nginx",
+        "worker_processes": 2,
+        "worker_connections": 10240,
+        "log_format": "$remote_addr - $remote_user [$time_local] \"$request_method $filtered_request_uri $server_protocol\" $status $body_bytes_sent \"$filtered_http_referer\" \"$http_user_agent\" $gzip_ratio",
+        "sendfile": "on",
+        "tcp_nopush": "on",
+        "tcp_nodelay": "on",
+        "gzip": "on",
+        "gzip_http_version": "1.1",
+        "gzip_comp_level": "2",
+        "gzip_proxied": "no-cache no-store private expired auth",
+        "gzip_types": [
+          "text/plain",
+          "text/css",
+          "application/x-javascript",
+          "text/xml",
+          "application/xml",
+          "application/xml+rss",
+          "text/javascript",
+          "application/json"
+        ],
+        "keepalive_timeout": 65,
+        "client_max_body_size": 0,
+        "cache_max_size": "5000m",
+        "redirect_http_to_https": false,
+        "redirect_http_to_https_port": 80,
+        "request_buffering_off_path_regex": ".git/git-receive-pack$|.git/info/refs?service=git-receive-pack$|.git/gitlab-lfs/objects|.git/info/lfs/objects/batch$",
+        "ssl_client_certificate": null,
+        "ssl_verify_client": null,
+        "ssl_verify_depth": "1",
+        "ssl_certificate": "/etc/gitlab/ssl/ec90f3132446.crt",
+        "ssl_certificate_key": "/etc/gitlab/ssl/ec90f3132446.key",
+        "ssl_ciphers": "ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA256:ECDHE-RSA-AES256-SHA:ECDHE-RSA-AES128-SHA:AES256-GCM-SHA384:AES128-GCM-SHA256:AES256-SHA256:AES128-SHA256:AES256-SHA:AES128-SHA:!aNULL:!eNULL:!EXPORT:!DES:!MD5:!PSK:!RC4",
+        "ssl_prefer_server_ciphers": "on",
+        "ssl_protocols": "TLSv1.2 TLSv1.3",
+        "ssl_session_cache": "builtin:1000  shared:SSL:10m",
+        "ssl_session_timeout": "5m",
+        "ssl_dhparam": null,
+        "listen_addresses": [
+          "*"
+        ],
+        "listen_port": null,
+        "listen_https": null,
+        "custom_gitlab_server_config": null,
+        "custom_nginx_config": null,
+        "proxy_read_timeout": 3600,
+        "proxy_connect_timeout": 300,
+        "proxy_set_headers": {
+          "Host": "$http_host",
+          "X-Real-IP": "$remote_addr",
+          "X-Forwarded-For": "$proxy_add_x_forwarded_for",
+          "X-Forwarded-Proto": "$scheme"
+        },
+        "referrer_policy": "strict-origin-when-cross-origin",
+        "http2_enabled": true,
+        "proxy_cache_path": "proxy_cache keys_zone=gitlab:10m max_size=1g levels=1:2",
+        "proxy_cache": "gitlab",
+        "real_ip_trusted_addresses": [
+
+        ],
+        "real_ip_header": null,
+        "real_ip_recursive": null,
+        "server_names_hash_bucket_size": 64,
+        "hsts_max_age": 31536000,
+        "hsts_include_subdomains": false,
+        "gzip_enabled": true,
+        "status": {
+          "enable": true,
+          "listen_addresses": [
+            "*"
+          ],
+          "fqdn": "localhost",
+          "port": 8060,
+          "vts_enable": true,
+          "options": {
+            "server_tokens": "off",
+            "access_log": "off",
+            "allow": "127.0.0.1",
+            "deny": "all"
+          }
+        }
+      },
+      "registry-nginx": {
+        "enable": true,
+        "ha": false,
+        "dir": "/var/opt/gitlab/nginx",
+        "log_directory": "/var/log/gitlab/nginx",
+        "worker_processes": 2,
+        "worker_connections": 10240,
+        "log_format": "$remote_addr - $remote_user [$time_local] \"$request_method $filtered_request_uri $server_protocol\" $status $body_bytes_sent \"$filtered_http_referer\" \"$http_user_agent\" $gzip_ratio",
+        "sendfile": "on",
+        "tcp_nopush": "on",
+        "tcp_nodelay": "on",
+        "gzip": "on",
+        "gzip_http_version": "1.1",
+        "gzip_comp_level": "2",
+        "gzip_proxied": "no-cache no-store private expired auth",
+        "gzip_types": [
+          "text/plain",
+          "text/css",
+          "application/x-javascript",
+          "text/xml",
+          "application/xml",
+          "application/xml+rss",
+          "text/javascript",
+          "application/json"
+        ],
+        "keepalive_timeout": 65,
+        "client_max_body_size": 0,
+        "cache_max_size": "5000m",
+        "redirect_http_to_https": false,
+        "redirect_http_to_https_port": 80,
+        "request_buffering_off_path_regex": ".git/git-receive-pack$|.git/info/refs?service=git-receive-pack$|.git/gitlab-lfs/objects|.git/info/lfs/objects/batch$",
+        "ssl_client_certificate": null,
+        "ssl_verify_client": null,
+        "ssl_verify_depth": "1",
+        "ssl_certificate": "/etc/gitlab/ssl/ec90f3132446.crt",
+        "ssl_certificate_key": "/etc/gitlab/ssl/ec90f3132446.key",
+        "ssl_ciphers": "ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES256-SHA384:ECDHE-RSA-AES128-SHA256:ECDHE-RSA-AES256-SHA:ECDHE-RSA-AES128-SHA:AES256-GCM-SHA384:AES128-GCM-SHA256:AES256-SHA256:AES128-SHA256:AES256-SHA:AES128-SHA:!aNULL:!eNULL:!EXPORT:!DES:!MD5:!PSK:!RC4",
+        "ssl_prefer_server_ciphers": "on",
+        "ssl_protocols": "TLSv1.2 TLSv1.3",
+        "ssl_session_cache": "builtin:1000  shared:SSL:10m",
+        "ssl_session_timeout": "5m",
+        "ssl_dhparam": null,
+        "listen_addresses": [
+          "*"
+        ],
+        "listen_port": null,
+        "listen_https": null,
+        "custom_gitlab_server_config": null,
+        "custom_nginx_config": null,
+        "proxy_read_timeout": 3600,
+        "proxy_connect_timeout": 300,
+        "proxy_set_headers": {
+          "Host": "$http_host",
+          "X-Real-IP": "$remote_addr",
+          "X-Forwarded-For": "$proxy_add_x_forwarded_for",
+          "X-Forwarded-Proto": "$scheme"
+        },
+        "referrer_policy": "strict-origin-when-cross-origin",
+        "http2_enabled": true,
+        "proxy_cache_path": "proxy_cache keys_zone=gitlab:10m max_size=1g levels=1:2",
+        "proxy_cache": "gitlab",
+        "real_ip_trusted_addresses": [
+
+        ],
+        "real_ip_header": null,
+        "real_ip_recursive": null,
+        "server_names_hash_bucket_size": 64,
+        "hsts_max_age": 31536000,
+        "hsts_include_subdomains": false,
+        "gzip_enabled": true,
+        "status": {
+          "enable": true,
+          "listen_addresses": [
+            "*"
+          ],
+          "fqdn": "localhost",
+          "port": 8060,
+          "vts_enable": true,
+          "options": {
+            "server_tokens": "off",
+            "access_log": "off",
+            "allow": "127.0.0.1",
+            "deny": "all"
+          }
+        },
+        "https": false
+      },
+      "storage-check": {
+        "enable": false,
+        "target": null,
+        "log_directory": "/var/log/gitlab/storage-check"
+      }
+    },
+    "praefect": {
+      "enable": false,
+      "failover_enabled": false,
+      "failover_election_strategy": "sql",
+      "failover_read_only_after_failover": true,
+      "auth_token": null,
+      "auth_transitioning": false,
+      "dir": "/var/opt/gitlab/praefect",
+      "log_directory": "/var/log/gitlab/praefect",
+      "env_directory": "/opt/gitlab/etc/praefect/env",
+      "wrapper_path": "/opt/gitlab/embedded/bin/gitaly-wrapper",
+      "listen_addr": "localhost:2305",
+      "prometheus_grpc_latency_buckets": null,
+      "prometheus_listen_addr": "localhost:9652",
+      "logging_level": null,
+      "logging_format": "json",
+      "sentry_dsn": null,
+      "sentry_environment": null,
+      "virtual_storages": {
+
+      },
+      "auto_migrate": true,
+      "database_host": null,
+      "database_port": null,
+      "database_user": null,
+      "database_password": null,
+      "database_dbname": null,
+      "database_sslmode": null,
+      "database_sslcert": null,
+      "database_sslkey": null,
+      "database_sslrootcert": null
+    },
+    "redis": {
+      "enable": true,
+      "ha": false,
+      "hz": 10,
+      "dir": "/var/opt/gitlab/redis",
+      "log_directory": "/var/log/gitlab/redis",
+      "username": "gitlab-redis",
+      "group": "gitlab-redis",
+      "uid": null,
+      "gid": null,
+      "shell": "/bin/false",
+      "home": "/var/opt/gitlab/redis",
+      "bind": "127.0.0.1",
+      "port": 0,
+      "maxclients": "10000",
+      "maxmemory": "0",
+      "maxmemory_policy": "noeviction",
+      "maxmemory_samples": 5,
+      "tcp_backlog": 511,
+      "tcp_timeout": 60,
+      "tcp_keepalive": 300,
+      "password": null,
+      "unixsocket": "/var/opt/gitlab/redis/redis.socket",
+      "unixsocketperm": "777",
+      "master": true,
+      "master_name": "gitlab-redis",
+      "master_ip": null,
+      "master_port": 6379,
+      "master_password": null,
+      "client_output_buffer_limit_normal": "0 0 0",
+      "client_output_buffer_limit_slave": "256mb 64mb 60",
+      "client_output_buffer_limit_replica": "256mb 64mb 60",
+      "client_output_buffer_limit_pubsub": "32mb 8mb 60",
+      "save": [
+        "900 1",
+        "300 10",
+        "60 10000"
+      ],
+      "rename_commands": null,
+      "announce_ip": null,
+      "announce_port": null
+    },
+    "registry": {
+      "enable": false,
+      "username": "registry",
+      "group": "registry",
+      "uid": null,
+      "gid": null,
+      "dir": "/var/opt/gitlab/registry",
+      "log_directory": "/var/log/gitlab/registry",
+      "env_directory": "/opt/gitlab/etc/registry/env",
+      "env": {
+        "SSL_CERT_DIR": "/opt/gitlab/embedded/ssl/certs/"
+      },
+      "log_level": "info",
+      "log_formatter": "text",
+      "rootcertbundle": null,
+      "health_storagedriver_enabled": true,
+      "storage_delete_enabled": null,
+      "storage": null,
+      "debug_addr": null,
+      "validation_enabled": false,
+      "autoredirect": false,
+      "compatibility_schema1_enabled": false,
+      "notifications": null,
+      "default_notifications_timeout": "500ms",
+      "default_notifications_threshold": 5,
+      "default_notifications_backoff": "1s",
+      "default_notifications_headers": {
+
+      }
+    }
+  },
+  "automatic": {
+    "kernel": {
+      "name": "Linux",
+      "release": "4.18.0-80.el8.x86_64",
+      "version": "#1 SMP Wed Mar 13 12:02:46 UTC 2019",
+      "machine": "x86_64",
+      "processor": "x86_64",
+      "os": "GNU/Linux",
+      "modules": {
+
+      }
+    },
+    "memory": {
+      "swap": {
+        "cached": "53516kB",
+        "total": "4169724kB",
+        "free": "3901948kB"
+      },
+      "hugepages": {
+        "total": "0",
+        "free": "0",
+        "reserved": "0",
+        "surplus": "0"
+      },
+      "total": "3871652kB",
+      "free": "102952kB",
+      "available": "573020kB",
+      "buffers": "24kB",
+      "cached": "667720kB",
+      "active": "1857448kB",
+      "inactive": "1457992kB",
+      "dirty": "212kB",
+      "writeback": "0kB",
+      "anon_pages": "2517624kB",
+      "mapped": "200416kB",
+      "slab": "297868kB",
+      "slab_reclaimable": "150788kB",
+      "slab_unreclaim": "147080kB",
+      "page_tables": "61608kB",
+      "nfs_unstable": "0kB",
+      "bounce": "0kB",
+      "commit_limit": "6105548kB",
+      "committed_as": "9914368kB",
+      "vmalloc_total": "34359738367kB",
+      "vmalloc_used": "0kB",
+      "vmalloc_chunk": "0kB",
+      "hugepage_size": "2048kB"
+    },
+    "network": {
+      "interfaces": {
+
+      }
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "lsb": {
+      "id": "Ubuntu",
+      "release": "16.04",
+      "codename": "xenial",
+      "description": "Ubuntu 16.04.6 LTS"
+    },
+    "os": "linux",
+    "os_version": "4.18.0-80.el8.x86_64",
+    "platform": "ubuntu",
+    "platform_version": "16.04",
+    "platform_family": "debian",
+    "uptime_seconds": 11071,
+    "uptime": "3 hours 04 minutes 31 seconds",
+    "idletime_seconds": 21562,
+    "idletime": "5 hours 59 minutes 22 seconds",
+    "languages": {
+      "ruby": {
+        "platform": "x86_64-linux",
+        "version": "2.6.6",
+        "release_date": "2020-03-31",
+        "target": "x86_64-pc-linux-gnu",
+        "target_cpu": "x86_64",
+        "target_vendor": "pc",
+        "target_os": "linux",
+        "host": "x86_64-pc-linux-gnu",
+        "host_cpu": "x86_64",
+        "host_os": "linux-gnu",
+        "host_vendor": "pc",
+        "bin_dir": "/opt/gitlab/embedded/bin",
+        "ruby_bin": "/opt/gitlab/embedded/bin/ruby",
+        "gems_dir": "/opt/gitlab/embedded/lib/ruby/gems/2.6.0",
+        "gem_bin": "/opt/gitlab/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "14.14.29",
+        "chef_root": "/opt/gitlab/embedded/lib/ruby/gems/2.6.0/gems/chef-14.14.29/lib"
+      },
+      "ohai": {
+        "version": "14.14.0",
+        "ohai_root": "/opt/gitlab/embedded/lib/ruby/gems/2.6.0/gems/ohai-14.14.0/lib/ohai"
+      }
+    },
+    "etc": {
+      "passwd": {
+        "root": {
+          "dir": "/root",
+          "gid": 0,
+          "uid": 0,
+          "shell": "/bin/bash",
+          "gecos": "root"
+        },
+        "daemon": {
+          "dir": "/usr/sbin",
+          "gid": 1,
+          "uid": 1,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "daemon"
+        },
+        "bin": {
+          "dir": "/bin",
+          "gid": 2,
+          "uid": 2,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "bin"
+        },
+        "sys": {
+          "dir": "/dev",
+          "gid": 3,
+          "uid": 3,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "sys"
+        },
+        "sync": {
+          "dir": "/bin",
+          "gid": 65534,
+          "uid": 4,
+          "shell": "/bin/sync",
+          "gecos": "sync"
+        },
+        "games": {
+          "dir": "/usr/games",
+          "gid": 60,
+          "uid": 5,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "games"
+        },
+        "man": {
+          "dir": "/var/cache/man",
+          "gid": 12,
+          "uid": 6,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "man"
+        },
+        "lp": {
+          "dir": "/var/spool/lpd",
+          "gid": 7,
+          "uid": 7,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "lp"
+        },
+        "mail": {
+          "dir": "/var/mail",
+          "gid": 8,
+          "uid": 8,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "mail"
+        },
+        "news": {
+          "dir": "/var/spool/news",
+          "gid": 9,
+          "uid": 9,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "news"
+        },
+        "uucp": {
+          "dir": "/var/spool/uucp",
+          "gid": 10,
+          "uid": 10,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "uucp"
+        },
+        "proxy": {
+          "dir": "/bin",
+          "gid": 13,
+          "uid": 13,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "proxy"
+        },
+        "www-data": {
+          "dir": "/var/www",
+          "gid": 33,
+          "uid": 33,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "www-data"
+        },
+        "backup": {
+          "dir": "/var/backups",
+          "gid": 34,
+          "uid": 34,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "backup"
+        },
+        "list": {
+          "dir": "/var/list",
+          "gid": 38,
+          "uid": 38,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "Mailing List Manager"
+        },
+        "irc": {
+          "dir": "/var/run/ircd",
+          "gid": 39,
+          "uid": 39,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "ircd"
+        },
+        "gnats": {
+          "dir": "/var/lib/gnats",
+          "gid": 41,
+          "uid": 41,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "Gnats Bug-Reporting System (admin)"
+        },
+        "nobody": {
+          "dir": "/nonexistent",
+          "gid": 65534,
+          "uid": 65534,
+          "shell": "/usr/sbin/nologin",
+          "gecos": "nobody"
+        },
+        "systemd-timesync": {
+          "dir": "/run/systemd",
+          "gid": 102,
+          "uid": 100,
+          "shell": "/bin/false",
+          "gecos": "systemd Time Synchronization,,,"
+        },
+        "systemd-network": {
+          "dir": "/run/systemd/netif",
+          "gid": 103,
+          "uid": 101,
+          "shell": "/bin/false",
+          "gecos": "systemd Network Management,,,"
+        },
+        "systemd-resolve": {
+          "dir": "/run/systemd/resolve",
+          "gid": 104,
+          "uid": 102,
+          "shell": "/bin/false",
+          "gecos": "systemd Resolver,,,"
+        },
+        "systemd-bus-proxy": {
+          "dir": "/run/systemd",
+          "gid": 105,
+          "uid": 103,
+          "shell": "/bin/false",
+          "gecos": "systemd Bus Proxy,,,"
+        },
+        "_apt": {
+          "dir": "/nonexistent",
+          "gid": 65534,
+          "uid": 104,
+          "shell": "/bin/false",
+          "gecos": ""
+        },
+        "sshd": {
+          "dir": "/var/run/sshd",
+          "gid": 65534,
+          "uid": 105,
+          "shell": "/usr/sbin/nologin",
+          "gecos": ""
+        },
+        "git": {
+          "dir": "/var/opt/gitlab",
+          "gid": 998,
+          "uid": 998,
+          "shell": "/bin/sh",
+          "gecos": ""
+        },
+        "gitlab-www": {
+          "dir": "/var/opt/gitlab/nginx",
+          "gid": 999,
+          "uid": 999,
+          "shell": "/bin/false",
+          "gecos": ""
+        },
+        "gitlab-redis": {
+          "dir": "/var/opt/gitlab/redis",
+          "gid": 997,
+          "uid": 997,
+          "shell": "/bin/false",
+          "gecos": ""
+        },
+        "gitlab-psql": {
+          "dir": "/var/opt/gitlab/postgresql",
+          "gid": 996,
+          "uid": 996,
+          "shell": "/bin/sh",
+          "gecos": ""
+        },
+        "mattermost": {
+          "dir": "/var/opt/gitlab/mattermost",
+          "gid": 994,
+          "uid": 994,
+          "shell": "/bin/sh",
+          "gecos": ""
+        },
+        "registry": {
+          "dir": "/var/opt/gitlab/registry",
+          "gid": 993,
+          "uid": 993,
+          "shell": "/bin/sh",
+          "gecos": ""
+        },
+        "gitlab-prometheus": {
+          "dir": "/var/opt/gitlab/prometheus",
+          "gid": 992,
+          "uid": 992,
+          "shell": "/bin/sh",
+          "gecos": ""
+        },
+        "gitlab-consul": {
+          "dir": "/var/opt/gitlab/consul",
+          "gid": 991,
+          "uid": 991,
+          "shell": "/bin/sh",
+          "gecos": ""
+        }
+      },
+      "group": {
+        "root": {
+          "gid": 0,
+          "members": [
+
+          ]
+        },
+        "daemon": {
+          "gid": 1,
+          "members": [
+
+          ]
+        },
+        "bin": {
+          "gid": 2,
+          "members": [
+
+          ]
+        },
+        "sys": {
+          "gid": 3,
+          "members": [
+
+          ]
+        },
+        "adm": {
+          "gid": 4,
+          "members": [
+
+          ]
+        },
+        "tty": {
+          "gid": 5,
+          "members": [
+
+          ]
+        },
+        "disk": {
+          "gid": 6,
+          "members": [
+
+          ]
+        },
+        "lp": {
+          "gid": 7,
+          "members": [
+
+          ]
+        },
+        "mail": {
+          "gid": 8,
+          "members": [
+
+          ]
+        },
+        "news": {
+          "gid": 9,
+          "members": [
+
+          ]
+        },
+        "uucp": {
+          "gid": 10,
+          "members": [
+
+          ]
+        },
+        "man": {
+          "gid": 12,
+          "members": [
+
+          ]
+        },
+        "proxy": {
+          "gid": 13,
+          "members": [
+
+          ]
+        },
+        "kmem": {
+          "gid": 15,
+          "members": [
+
+          ]
+        },
+        "dialout": {
+          "gid": 20,
+          "members": [
+
+          ]
+        },
+        "fax": {
+          "gid": 21,
+          "members": [
+
+          ]
+        },
+        "voice": {
+          "gid": 22,
+          "members": [
+
+          ]
+        },
+        "cdrom": {
+          "gid": 24,
+          "members": [
+
+          ]
+        },
+        "floppy": {
+          "gid": 25,
+          "members": [
+
+          ]
+        },
+        "tape": {
+          "gid": 26,
+          "members": [
+
+          ]
+        },
+        "sudo": {
+          "gid": 27,
+          "members": [
+
+          ]
+        },
+        "audio": {
+          "gid": 29,
+          "members": [
+
+          ]
+        },
+        "dip": {
+          "gid": 30,
+          "members": [
+
+          ]
+        },
+        "www-data": {
+          "gid": 33,
+          "members": [
+
+          ]
+        },
+        "backup": {
+          "gid": 34,
+          "members": [
+
+          ]
+        },
+        "operator": {
+          "gid": 37,
+          "members": [
+
+          ]
+        },
+        "list": {
+          "gid": 38,
+          "members": [
+
+          ]
+        },
+        "irc": {
+          "gid": 39,
+          "members": [
+
+          ]
+        },
+        "src": {
+          "gid": 40,
+          "members": [
+
+          ]
+        },
+        "gnats": {
+          "gid": 41,
+          "members": [
+
+          ]
+        },
+        "shadow": {
+          "gid": 42,
+          "members": [
+
+          ]
+        },
+        "utmp": {
+          "gid": 43,
+          "members": [
+
+          ]
+        },
+        "video": {
+          "gid": 44,
+          "members": [
+
+          ]
+        },
+        "sasl": {
+          "gid": 45,
+          "members": [
+
+          ]
+        },
+        "plugdev": {
+          "gid": 46,
+          "members": [
+
+          ]
+        },
+        "staff": {
+          "gid": 50,
+          "members": [
+
+          ]
+        },
+        "games": {
+          "gid": 60,
+          "members": [
+
+          ]
+        },
+        "users": {
+          "gid": 100,
+          "members": [
+
+          ]
+        },
+        "nogroup": {
+          "gid": 65534,
+          "members": [
+
+          ]
+        },
+        "systemd-journal": {
+          "gid": 101,
+          "members": [
+
+          ]
+        },
+        "systemd-timesync": {
+          "gid": 102,
+          "members": [
+
+          ]
+        },
+        "systemd-network": {
+          "gid": 103,
+          "members": [
+
+          ]
+        },
+        "systemd-resolve": {
+          "gid": 104,
+          "members": [
+
+          ]
+        },
+        "systemd-bus-proxy": {
+          "gid": 105,
+          "members": [
+
+          ]
+        },
+        "ssh": {
+          "gid": 106,
+          "members": [
+
+          ]
+        },
+        "git": {
+          "gid": 998,
+          "members": [
+
+          ]
+        },
+        "gitlab-www": {
+          "gid": 999,
+          "members": [
+
+          ]
+        },
+        "gitlab-redis": {
+          "gid": 997,
+          "members": [
+
+          ]
+        },
+        "gitlab-psql": {
+          "gid": 996,
+          "members": [
+
+          ]
+        },
+        "mattermost": {
+          "gid": 994,
+          "members": [
+
+          ]
+        },
+        "registry": {
+          "gid": 993,
+          "members": [
+
+          ]
+        },
+        "gitlab-prometheus": {
+          "gid": 992,
+          "members": [
+
+          ]
+        },
+        "gitlab-consul": {
+          "gid": 991,
+          "members": [
+
+          ]
+        }
+      }
+    },
+    "current_user": "root",
+    "command": {
+      "ps": "ps -ef"
+    },
+    "cpu": {
+      "0": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz",
+        "stepping": "12",
+        "mhz": "1991.999",
+        "cache_size": "8192 KB",
+        "physical_id": "0",
+        "core_id": "0",
+        "cores": "2",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ht",
+          "syscall",
+          "nx",
+          "rdtscp",
+          "lm",
+          "constant_tsc",
+          "rep_good",
+          "nopl",
+          "xtopology",
+          "nonstop_tsc",
+          "cpuid",
+          "tsc_known_freq",
+          "pni",
+          "pclmulqdq",
+          "ssse3",
+          "cx16",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "x2apic",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "avx",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "invpcid_single",
+          "pti",
+          "fsgsbase",
+          "avx2",
+          "invpcid",
+          "rdseed",
+          "clflushopt"
+        ]
+      },
+      "1": {
+        "vendor_id": "GenuineIntel",
+        "family": "6",
+        "model": "142",
+        "model_name": "Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz",
+        "stepping": "12",
+        "mhz": "1991.999",
+        "cache_size": "8192 KB",
+        "physical_id": "0",
+        "core_id": "1",
+        "cores": "2",
+        "flags": [
+          "fpu",
+          "vme",
+          "de",
+          "pse",
+          "tsc",
+          "msr",
+          "pae",
+          "mce",
+          "cx8",
+          "apic",
+          "sep",
+          "mtrr",
+          "pge",
+          "mca",
+          "cmov",
+          "pat",
+          "pse36",
+          "clflush",
+          "mmx",
+          "fxsr",
+          "sse",
+          "sse2",
+          "ht",
+          "syscall",
+          "nx",
+          "rdtscp",
+          "lm",
+          "constant_tsc",
+          "rep_good",
+          "nopl",
+          "xtopology",
+          "nonstop_tsc",
+          "cpuid",
+          "tsc_known_freq",
+          "pni",
+          "pclmulqdq",
+          "ssse3",
+          "cx16",
+          "pcid",
+          "sse4_1",
+          "sse4_2",
+          "x2apic",
+          "movbe",
+          "popcnt",
+          "aes",
+          "xsave",
+          "avx",
+          "rdrand",
+          "hypervisor",
+          "lahf_lm",
+          "abm",
+          "3dnowprefetch",
+          "invpcid_single",
+          "pti",
+          "fsgsbase",
+          "avx2",
+          "invpcid",
+          "rdseed",
+          "clflushopt"
+        ]
+      },
+      "total": 2,
+      "real": 1,
+      "cores": 2
+    },
+    "filesystem": {
+      "by_device": {
+        "overlay": {
+          "kb_size": "47183352",
+          "kb_used": "19519116",
+          "kb_available": "27664236",
+          "percent_used": "42%",
+          "total_inodes": "23603200",
+          "inodes_used": "474644",
+          "inodes_available": "23128556",
+          "inodes_percent_used": "3%",
+          "fs_type": "overlay",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "lowerdir=/var/lib/docker/overlay2/l/FIRHWAUGYIQYT3NXD4SDZ56AVM:/var/lib/docker/overlay2/l/ASGJP5QH4BXYEJDL6X4LFG5U6T:/var/lib/docker/overlay2/l/RNHFZEX5A3KBF5APLO5QNQSJ5A:/var/lib/docker/overlay2/l/VVAJWJVFNQCZSVF4B2QSX226WU:/var/lib/docker/overlay2/l/NHSEB7PTLWK323YL4DK3AHNEWD:/var/lib/docker/overlay2/l/ZUIA2OPKNPFEDBM6UHPXJUUH7I:/var/lib/docker/overlay2/l/WAP3HSQOLWVNFFJKMWIBEE2AK3:/var/lib/docker/overlay2/l/PASCANSCZ6ZPT74TXK5ESQAOLG:/var/lib/docker/overlay2/l/OHITGUQPUUEOZRXUEEEIW6D2M7:/var/lib/docker/overlay2/l/7KDG5MSXJHUQCVHOPN4YQB7BXJ:/var/lib/docker/overlay2/l/WL75NPAZMFWGCK7D7S67GR2RIZ",
+            "upperdir=/var/lib/docker/overlay2/f6ff4ec599ecd0a8038cf562a3ccaa076c6f227314d07c415668f035ef0cbba5/diff",
+            "workdir=/var/lib/docker/overlay2/f6ff4ec599ecd0a8038cf562a3ccaa076c6f227314d07c415668f035ef0cbba5/work"
+          ],
+          "mounts": [
+            "/"
+          ]
+        },
+        "tmpfs": {
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ],
+          "mounts": [
+            "/dev",
+            "/sys/fs/cgroup",
+            "/proc/asound",
+            "/proc/acpi",
+            "/proc/scsi",
+            "/sys/firmware",
+            "/proc/kcore",
+            "/proc/keys",
+            "/proc/timer_list",
+            "/proc/sched_debug"
+          ]
+        },
+        "/dev/mapper/rhel-root": {
+          "kb_size": "47183352",
+          "kb_used": "19519116",
+          "kb_available": "27664236",
+          "percent_used": "42%",
+          "total_inodes": "23603200",
+          "inodes_used": "474644",
+          "inodes_available": "23128556",
+          "inodes_percent_used": "3%",
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ],
+          "mounts": [
+            "/etc/gitlab",
+            "/etc/resolv.conf",
+            "/etc/hostname",
+            "/etc/hosts",
+            "/var/log/gitlab",
+            "/var/opt/gitlab"
+          ]
+        },
+        "shm": {
+          "kb_size": "65536",
+          "kb_used": "0",
+          "kb_available": "65536",
+          "percent_used": "0%",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "size=65536k"
+          ],
+          "mounts": [
+            "/dev/shm"
+          ]
+        },
+        "proc": {
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ],
+          "mounts": [
+            "/proc",
+            "/proc/bus",
+            "/proc/fs",
+            "/proc/irq",
+            "/proc/sys",
+            "/proc/sysrq-trigger"
+          ]
+        },
+        "devpts": {
+          "fs_type": "devpts",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "gid=5",
+            "mode=620",
+            "ptmxmode=666"
+          ],
+          "mounts": [
+            "/dev/pts",
+            "/dev/console"
+          ]
+        },
+        "sysfs": {
+          "fs_type": "sysfs",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel"
+          ],
+          "mounts": [
+            "/sys"
+          ]
+        },
+        "cgroup": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "blkio"
+          ],
+          "mounts": [
+            "/sys/fs/cgroup/systemd",
+            "/sys/fs/cgroup/cpu,cpuacct",
+            "/sys/fs/cgroup/devices",
+            "/sys/fs/cgroup/rdma",
+            "/sys/fs/cgroup/net_cls,net_prio",
+            "/sys/fs/cgroup/memory",
+            "/sys/fs/cgroup/hugetlb",
+            "/sys/fs/cgroup/cpuset",
+            "/sys/fs/cgroup/pids",
+            "/sys/fs/cgroup/perf_event",
+            "/sys/fs/cgroup/freezer",
+            "/sys/fs/cgroup/blkio"
+          ]
+        },
+        "mqueue": {
+          "fs_type": "mqueue",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel"
+          ],
+          "mounts": [
+            "/dev/mqueue"
+          ]
+        },
+        "sr0": {
+          "mounts": [
+
+          ]
+        },
+        "sda": {
+          "mounts": [
+
+          ]
+        },
+        "sda2": {
+          "mounts": [
+
+          ]
+        },
+        "sda1": {
+          "mounts": [
+
+          ]
+        }
+      },
+      "by_mountpoint": {
+        "/": {
+          "kb_size": "47183352",
+          "kb_used": "19519116",
+          "kb_available": "27664236",
+          "percent_used": "42%",
+          "total_inodes": "23603200",
+          "inodes_used": "474644",
+          "inodes_available": "23128556",
+          "inodes_percent_used": "3%",
+          "fs_type": "overlay",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "lowerdir=/var/lib/docker/overlay2/l/FIRHWAUGYIQYT3NXD4SDZ56AVM:/var/lib/docker/overlay2/l/ASGJP5QH4BXYEJDL6X4LFG5U6T:/var/lib/docker/overlay2/l/RNHFZEX5A3KBF5APLO5QNQSJ5A:/var/lib/docker/overlay2/l/VVAJWJVFNQCZSVF4B2QSX226WU:/var/lib/docker/overlay2/l/NHSEB7PTLWK323YL4DK3AHNEWD:/var/lib/docker/overlay2/l/ZUIA2OPKNPFEDBM6UHPXJUUH7I:/var/lib/docker/overlay2/l/WAP3HSQOLWVNFFJKMWIBEE2AK3:/var/lib/docker/overlay2/l/PASCANSCZ6ZPT74TXK5ESQAOLG:/var/lib/docker/overlay2/l/OHITGUQPUUEOZRXUEEEIW6D2M7:/var/lib/docker/overlay2/l/7KDG5MSXJHUQCVHOPN4YQB7BXJ:/var/lib/docker/overlay2/l/WL75NPAZMFWGCK7D7S67GR2RIZ",
+            "upperdir=/var/lib/docker/overlay2/f6ff4ec599ecd0a8038cf562a3ccaa076c6f227314d07c415668f035ef0cbba5/diff",
+            "workdir=/var/lib/docker/overlay2/f6ff4ec599ecd0a8038cf562a3ccaa076c6f227314d07c415668f035ef0cbba5/work"
+          ],
+          "devices": [
+            "overlay"
+          ]
+        },
+        "/dev": {
+          "kb_size": "65536",
+          "kb_used": "0",
+          "kb_available": "65536",
+          "percent_used": "0%",
+          "total_inodes": "483956",
+          "inodes_used": "17",
+          "inodes_available": "483939",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        },
+        "/sys/fs/cgroup": {
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "total_inodes": "483956",
+          "inodes_used": "17",
+          "inodes_available": "483939",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "mode=755"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        },
+        "/etc/gitlab": {
+          "kb_size": "47183352",
+          "kb_used": "19519116",
+          "kb_available": "27664236",
+          "percent_used": "42%",
+          "total_inodes": "23603200",
+          "inodes_used": "474644",
+          "inodes_available": "23128556",
+          "inodes_percent_used": "3%",
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ],
+          "devices": [
+            "/dev/mapper/rhel-root"
+          ]
+        },
+        "/dev/shm": {
+          "kb_size": "65536",
+          "kb_used": "0",
+          "kb_available": "65536",
+          "percent_used": "0%",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "size=65536k"
+          ],
+          "devices": [
+            "shm"
+          ]
+        },
+        "/proc/asound": {
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "relatime",
+            "seclabel"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        },
+        "/proc/acpi": {
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "relatime",
+            "seclabel"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        },
+        "/proc/scsi": {
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "relatime",
+            "seclabel"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        },
+        "/sys/firmware": {
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "relatime",
+            "seclabel"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        },
+        "/proc": {
+          "fs_type": "proc",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime"
+          ],
+          "devices": [
+            "proc"
+          ]
+        },
+        "/dev/pts": {
+          "fs_type": "devpts",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "gid=5",
+            "mode=620",
+            "ptmxmode=666"
+          ],
+          "devices": [
+            "devpts"
+          ]
+        },
+        "/sys": {
+          "fs_type": "sysfs",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel"
+          ],
+          "devices": [
+            "sysfs"
+          ]
+        },
+        "/sys/fs/cgroup/systemd": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "xattr",
+            "release_agent=/usr/lib/systemd/systemd-cgroups-agent",
+            "name=systemd"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/cpu,cpuacct": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "cpu",
+            "cpuacct"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/devices": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "devices"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/rdma": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "rdma"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/net_cls,net_prio": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "net_cls",
+            "net_prio"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/memory": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "memory"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/hugetlb": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "hugetlb"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/cpuset": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "cpuset"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/pids": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "pids"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/perf_event": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "perf_event"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/freezer": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "freezer"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/sys/fs/cgroup/blkio": {
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "blkio"
+          ],
+          "devices": [
+            "cgroup"
+          ]
+        },
+        "/dev/mqueue": {
+          "fs_type": "mqueue",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel"
+          ],
+          "devices": [
+            "mqueue"
+          ]
+        },
+        "/etc/resolv.conf": {
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ],
+          "devices": [
+            "/dev/mapper/rhel-root"
+          ]
+        },
+        "/etc/hostname": {
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ],
+          "devices": [
+            "/dev/mapper/rhel-root"
+          ]
+        },
+        "/etc/hosts": {
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ],
+          "devices": [
+            "/dev/mapper/rhel-root"
+          ]
+        },
+        "/var/log/gitlab": {
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ],
+          "devices": [
+            "/dev/mapper/rhel-root"
+          ]
+        },
+        "/var/opt/gitlab": {
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ],
+          "devices": [
+            "/dev/mapper/rhel-root"
+          ]
+        },
+        "/dev/console": {
+          "fs_type": "devpts",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "gid=5",
+            "mode=620",
+            "ptmxmode=666"
+          ],
+          "devices": [
+            "devpts"
+          ]
+        },
+        "/proc/bus": {
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ],
+          "devices": [
+            "proc"
+          ]
+        },
+        "/proc/fs": {
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ],
+          "devices": [
+            "proc"
+          ]
+        },
+        "/proc/irq": {
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ],
+          "devices": [
+            "proc"
+          ]
+        },
+        "/proc/sys": {
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ],
+          "devices": [
+            "proc"
+          ]
+        },
+        "/proc/sysrq-trigger": {
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ],
+          "devices": [
+            "proc"
+          ]
+        },
+        "/proc/kcore": {
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        },
+        "/proc/keys": {
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        },
+        "/proc/timer_list": {
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        },
+        "/proc/sched_debug": {
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ],
+          "devices": [
+            "tmpfs"
+          ]
+        }
+      },
+      "by_pair": {
+        "overlay,/": {
+          "device": "overlay",
+          "kb_size": "47183352",
+          "kb_used": "19519116",
+          "kb_available": "27664236",
+          "percent_used": "42%",
+          "mount": "/",
+          "total_inodes": "23603200",
+          "inodes_used": "474644",
+          "inodes_available": "23128556",
+          "inodes_percent_used": "3%",
+          "fs_type": "overlay",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "lowerdir=/var/lib/docker/overlay2/l/FIRHWAUGYIQYT3NXD4SDZ56AVM:/var/lib/docker/overlay2/l/ASGJP5QH4BXYEJDL6X4LFG5U6T:/var/lib/docker/overlay2/l/RNHFZEX5A3KBF5APLO5QNQSJ5A:/var/lib/docker/overlay2/l/VVAJWJVFNQCZSVF4B2QSX226WU:/var/lib/docker/overlay2/l/NHSEB7PTLWK323YL4DK3AHNEWD:/var/lib/docker/overlay2/l/ZUIA2OPKNPFEDBM6UHPXJUUH7I:/var/lib/docker/overlay2/l/WAP3HSQOLWVNFFJKMWIBEE2AK3:/var/lib/docker/overlay2/l/PASCANSCZ6ZPT74TXK5ESQAOLG:/var/lib/docker/overlay2/l/OHITGUQPUUEOZRXUEEEIW6D2M7:/var/lib/docker/overlay2/l/7KDG5MSXJHUQCVHOPN4YQB7BXJ:/var/lib/docker/overlay2/l/WL75NPAZMFWGCK7D7S67GR2RIZ",
+            "upperdir=/var/lib/docker/overlay2/f6ff4ec599ecd0a8038cf562a3ccaa076c6f227314d07c415668f035ef0cbba5/diff",
+            "workdir=/var/lib/docker/overlay2/f6ff4ec599ecd0a8038cf562a3ccaa076c6f227314d07c415668f035ef0cbba5/work"
+          ]
+        },
+        "tmpfs,/dev": {
+          "device": "tmpfs",
+          "kb_size": "65536",
+          "kb_used": "0",
+          "kb_available": "65536",
+          "percent_used": "0%",
+          "mount": "/dev",
+          "total_inodes": "483956",
+          "inodes_used": "17",
+          "inodes_available": "483939",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ]
+        },
+        "tmpfs,/sys/fs/cgroup": {
+          "device": "tmpfs",
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "mount": "/sys/fs/cgroup",
+          "total_inodes": "483956",
+          "inodes_used": "17",
+          "inodes_available": "483939",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "mode=755"
+          ]
+        },
+        "/dev/mapper/rhel-root,/etc/gitlab": {
+          "device": "/dev/mapper/rhel-root",
+          "kb_size": "47183352",
+          "kb_used": "19519116",
+          "kb_available": "27664236",
+          "percent_used": "42%",
+          "mount": "/etc/gitlab",
+          "total_inodes": "23603200",
+          "inodes_used": "474644",
+          "inodes_available": "23128556",
+          "inodes_percent_used": "3%",
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ]
+        },
+        "shm,/dev/shm": {
+          "device": "shm",
+          "kb_size": "65536",
+          "kb_used": "0",
+          "kb_available": "65536",
+          "percent_used": "0%",
+          "mount": "/dev/shm",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "size=65536k"
+          ]
+        },
+        "tmpfs,/proc/asound": {
+          "device": "tmpfs",
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "mount": "/proc/asound",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "relatime",
+            "seclabel"
+          ]
+        },
+        "tmpfs,/proc/acpi": {
+          "device": "tmpfs",
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "mount": "/proc/acpi",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "relatime",
+            "seclabel"
+          ]
+        },
+        "tmpfs,/proc/scsi": {
+          "device": "tmpfs",
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "mount": "/proc/scsi",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "relatime",
+            "seclabel"
+          ]
+        },
+        "tmpfs,/sys/firmware": {
+          "device": "tmpfs",
+          "kb_size": "1935824",
+          "kb_used": "0",
+          "kb_available": "1935824",
+          "percent_used": "0%",
+          "mount": "/sys/firmware",
+          "total_inodes": "483956",
+          "inodes_used": "1",
+          "inodes_available": "483955",
+          "inodes_percent_used": "1%",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "ro",
+            "relatime",
+            "seclabel"
+          ]
+        },
+        "proc,/proc": {
+          "device": "proc",
+          "mount": "/proc",
+          "fs_type": "proc",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime"
+          ]
+        },
+        "devpts,/dev/pts": {
+          "device": "devpts",
+          "mount": "/dev/pts",
+          "fs_type": "devpts",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "gid=5",
+            "mode=620",
+            "ptmxmode=666"
+          ]
+        },
+        "sysfs,/sys": {
+          "device": "sysfs",
+          "mount": "/sys",
+          "fs_type": "sysfs",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/systemd": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/systemd",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "xattr",
+            "release_agent=/usr/lib/systemd/systemd-cgroups-agent",
+            "name=systemd"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/cpu,cpuacct": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/cpu,cpuacct",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "cpu",
+            "cpuacct"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/devices": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/devices",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "devices"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/rdma": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/rdma",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "rdma"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/net_cls,net_prio": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/net_cls,net_prio",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "net_cls",
+            "net_prio"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/memory": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/memory",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "memory"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/hugetlb": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/hugetlb",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "hugetlb"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/cpuset": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/cpuset",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "cpuset"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/pids": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/pids",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "pids"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/perf_event": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/perf_event",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "perf_event"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/freezer": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/freezer",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "freezer"
+          ]
+        },
+        "cgroup,/sys/fs/cgroup/blkio": {
+          "device": "cgroup",
+          "mount": "/sys/fs/cgroup/blkio",
+          "fs_type": "cgroup",
+          "mount_options": [
+            "ro",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "blkio"
+          ]
+        },
+        "mqueue,/dev/mqueue": {
+          "device": "mqueue",
+          "mount": "/dev/mqueue",
+          "fs_type": "mqueue",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "nodev",
+            "noexec",
+            "relatime",
+            "seclabel"
+          ]
+        },
+        "/dev/mapper/rhel-root,/etc/resolv.conf": {
+          "device": "/dev/mapper/rhel-root",
+          "mount": "/etc/resolv.conf",
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ]
+        },
+        "/dev/mapper/rhel-root,/etc/hostname": {
+          "device": "/dev/mapper/rhel-root",
+          "mount": "/etc/hostname",
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ]
+        },
+        "/dev/mapper/rhel-root,/etc/hosts": {
+          "device": "/dev/mapper/rhel-root",
+          "mount": "/etc/hosts",
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ]
+        },
+        "/dev/mapper/rhel-root,/var/log/gitlab": {
+          "device": "/dev/mapper/rhel-root",
+          "mount": "/var/log/gitlab",
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ]
+        },
+        "/dev/mapper/rhel-root,/var/opt/gitlab": {
+          "device": "/dev/mapper/rhel-root",
+          "mount": "/var/opt/gitlab",
+          "fs_type": "xfs",
+          "mount_options": [
+            "rw",
+            "relatime",
+            "seclabel",
+            "attr2",
+            "inode64",
+            "noquota"
+          ]
+        },
+        "devpts,/dev/console": {
+          "device": "devpts",
+          "mount": "/dev/console",
+          "fs_type": "devpts",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "noexec",
+            "relatime",
+            "seclabel",
+            "gid=5",
+            "mode=620",
+            "ptmxmode=666"
+          ]
+        },
+        "proc,/proc/bus": {
+          "device": "proc",
+          "mount": "/proc/bus",
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ]
+        },
+        "proc,/proc/fs": {
+          "device": "proc",
+          "mount": "/proc/fs",
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ]
+        },
+        "proc,/proc/irq": {
+          "device": "proc",
+          "mount": "/proc/irq",
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ]
+        },
+        "proc,/proc/sys": {
+          "device": "proc",
+          "mount": "/proc/sys",
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ]
+        },
+        "proc,/proc/sysrq-trigger": {
+          "device": "proc",
+          "mount": "/proc/sysrq-trigger",
+          "fs_type": "proc",
+          "mount_options": [
+            "ro",
+            "relatime"
+          ]
+        },
+        "tmpfs,/proc/kcore": {
+          "device": "tmpfs",
+          "mount": "/proc/kcore",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ]
+        },
+        "tmpfs,/proc/keys": {
+          "device": "tmpfs",
+          "mount": "/proc/keys",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ]
+        },
+        "tmpfs,/proc/timer_list": {
+          "device": "tmpfs",
+          "mount": "/proc/timer_list",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ]
+        },
+        "tmpfs,/proc/sched_debug": {
+          "device": "tmpfs",
+          "mount": "/proc/sched_debug",
+          "fs_type": "tmpfs",
+          "mount_options": [
+            "rw",
+            "nosuid",
+            "seclabel",
+            "size=65536k",
+            "mode=755"
+          ]
+        },
+        "sr0,": {
+          "device": "sr0"
+        },
+        "sda,": {
+          "device": "sda"
+        },
+        "sda2,": {
+          "device": "sda2"
+        },
+        "sda1,": {
+          "device": "sda1"
+        }
+      }
+    },
+    "hostname": "ec90f3132446",
+    "machinename": "ec90f3132446",
+    "fqdn": "ec90f3132446",
+    "domain": null,
+    "init_package": "wrapper",
+    "keys": {
+      "ssh": {
+        "host_rsa_public": "AAAAB3NzaC1yc2EAAAADAQABAAABAQDEvVa+TwjJMP3y0nY/uK0qI8eMg2sePa1Wj2BlGZ0r6q/aTqKeMjxb2hDuZmd4U8eOwbhsSIQmKl+YlZ+6h+G3CDd2k7lJPspMzqBfe8bH77zBdBP+z5ZvcgCMGAwN/NNc8aZK6+0Dp0h7jtY2qIjzCBPqX6zBo8vptduMcvpj2z+No5/Z/Rv672NuPc3FyNi9sc5eNeqOJOBqyUAp7TmO7Sy0kdNlx+REYiuNqPfEwMfesHGOeFik1x2+UyCbgTGdpRjBeUBvv7xHKCxllAReSIAz40C8agfnvzpqlfLQdsQIVHsiljcHI7c48w1qy4VzumbaQo4LNHqWQ/zsSU23",
+        "host_dsa_public": "AAAAB3NzaC1kc3MAAACBAOszzoXV2Ux2XWL1ZatyHcuLLtHAmOUv5nS19lYKOHdbsSJGMCA1UpvA1F5dK4qYElbzXCZjRGITJd6zEWrjFs9iQvNpQnV90phGnH/UkhxhSS/h9AooTGdm90+phwZIA+qDc6aTThEZR9s/hmeDSQ4U21I9bL8y4UKQrv/LfdChAAAAFQD6gGkY54RJgT6PvctVTx2mbYbF0QAAAIBvkUwmh9hOI0oGGqNAsJc8NY6+Rz6MziDB81CxhdhWcXnC3vxfXItnwAEqO8FHIPMriUXrE58QJw05maqfsH+I35UQpfSFRG9OXehz66Wicl2AHpnB6CY/cgOWQ/oPjbCPliFWSWz/zKue2rJrUtMGPZkuDChT6kXaf2xVgSa+BQAAAIBrpJ0Fiu2TaPODBHUm1Zkd1tjwvexOaXvzPanshuxvwaqLy59e/ERjKJwcD7BBoRBSx4/Rc7e81kmffrVqeSHCID+8kgmLdiVAwC56yGvrDFlSx3O93FVNXE9LjwhRyK2RNnkutW+Pe6CzKAoksjiOvus8M6lKKPYZJAHIXKtTzQ==",
+        "host_ecdsa_public": "AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBP9Z5gcbxK9O6ppNWDBZ/BQ++7leK6Pd9Y+2enNtoM69b6zE+S87fY8Fqjp/mPg7hS4r+IzcmnwV4ctldr5L9QQ=",
+        "host_ecdsa_type": "ecdsa-sha2-nistp256",
+        "host_ed25519_public": "AAAAC3NzaC1lZDI1NTE5AAAAIBfUFFB+jrptOYa+Bi4HcGBmfcUkK4RN0bENPDeO0fyX"
+      }
+    },
+    "block_device": {
+      "dm-1": {
+        "size": "8339456",
+        "removable": "0",
+        "rotational": "1",
+        "physical_block_size": "512",
+        "logical_block_size": "512"
+      },
+      "sr0": {
+        "size": "13873152",
+        "removable": "1",
+        "model": "CD-ROM",
+        "rev": "1.0",
+        "state": "running",
+        "timeout": "30",
+        "vendor": "VBOX",
+        "queue_depth": "1",
+        "rotational": "1",
+        "physical_block_size": "2048",
+        "logical_block_size": "2048"
+      },
+      "dm-0": {
+        "size": "94412800",
+        "removable": "0",
+        "rotational": "1",
+        "physical_block_size": "512",
+        "logical_block_size": "512"
+      },
+      "sda": {
+        "size": "104857600",
+        "removable": "0",
+        "model": "VBOX HARDDISK",
+        "rev": "1.0",
+        "state": "running",
+        "timeout": "30",
+        "vendor": "ATA",
+        "queue_depth": "32",
+        "rotational": "1",
+        "physical_block_size": "512",
+        "logical_block_size": "512"
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "hostnamectl": {
+
+    },
+    "machine_id": "",
+    "systemd_paths": {
+      "temporary": "/tmp",
+      "temporary-large": "/var/tmp",
+      "system-binaries": "/usr/bin",
+      "system-include": "/usr/include",
+      "system-library-private": "/usr/lib",
+      "system-library-arch": "/usr/lib/x86_64-linux-gnu",
+      "system-shared": "/usr/share",
+      "system-configuration-factory": "/usr/share/factory/etc",
+      "system-state-factory": "/usr/share/factory/var",
+      "system-configuration": "/etc",
+      "system-runtime": "/run",
+      "system-runtime-logs": "/run/log",
+      "system-state-private": "/var/lib",
+      "system-state-logs": "/var/log",
+      "system-state-cache": "/var/cache",
+      "system-state-spool": "/var/spool",
+      "user-binaries": "/root/.local/bin",
+      "user-library-private": "/root/.local/lib",
+      "user-library-arch": "/root/.local/lib/x86_64-linux-gnu",
+      "user-shared": "/root/.local/share",
+      "user-configuration": "/root/.config",
+      "user-state-cache": "/root/.cache",
+      "user": "/root",
+      "user-documents": "/root",
+      "user-music": "/root",
+      "user-pictures": "/root",
+      "user-videos": "/root",
+      "user-download": "/root",
+      "user-public": "/root",
+      "user-templates": "/root",
+      "user-desktop": "/root/Desktop",
+      "search-binaries": "/opt/gitlab/bin",
+      "search-library-private": "/root/.local/lib",
+      "search-library-arch": "/root/.local/lib/x86_64-linux-gnu",
+      "search-shared": "/root/.local/share",
+      "search-configuration-factory": "/usr/local/share/factory/etc",
+      "search-state-factory": "/usr/local/share/factory/var",
+      "search-configuration": "/root/.config"
+    },
+    "ohai_time": 1594657440.96282,
+    "packages": {
+      "adduser": {
+        "version": "3.113+nmu3ubuntu4",
+        "arch": "all"
+      },
+      "apt": {
+        "version": "1.2.32ubuntu0.1",
+        "arch": "amd64"
+      },
+      "apt-transport-https": {
+        "version": "1.2.32ubuntu0.1",
+        "arch": "amd64"
+      },
+      "base-files": {
+        "version": "9.4ubuntu4.11",
+        "arch": "amd64"
+      },
+      "base-passwd": {
+        "version": "3.5.39",
+        "arch": "amd64"
+      },
+      "bash": {
+        "version": "4.3-14ubuntu1.4",
+        "arch": "amd64"
+      },
+      "bsdutils": {
+        "version": "1:2.27.1-6ubuntu3.10",
+        "arch": "amd64"
+      },
+      "ca-certificates": {
+        "version": "20190110~16.04.1",
+        "arch": "all"
+      },
+      "coreutils": {
+        "version": "8.25-2ubuntu3~16.04",
+        "arch": "amd64"
+      },
+      "dash": {
+        "version": "0.5.8-2.1ubuntu2",
+        "arch": "amd64"
+      },
+      "debconf": {
+        "version": "1.5.58ubuntu2",
+        "arch": "all"
+      },
+      "debianutils": {
+        "version": "4.7",
+        "arch": "amd64"
+      },
+      "diffutils": {
+        "version": "1:3.3-3",
+        "arch": "amd64"
+      },
+      "dpkg": {
+        "version": "1.18.4ubuntu1.6",
+        "arch": "amd64"
+      },
+      "e2fslibs": {
+        "version": "1.42.13-1ubuntu1.2",
+        "arch": "amd64"
+      },
+      "e2fsprogs": {
+        "version": "1.42.13-1ubuntu1.2",
+        "arch": "amd64"
+      },
+      "findutils": {
+        "version": "4.6.0+git+20160126-2",
+        "arch": "amd64"
+      },
+      "gcc-5-base": {
+        "version": "5.4.0-6ubuntu1~16.04.12",
+        "arch": "amd64"
+      },
+      "gcc-6-base": {
+        "version": "6.0.1-0ubuntu1",
+        "arch": "amd64"
+      },
+      "gitlab-ce": {
+        "version": "13.1.4-ce.0",
+        "arch": "amd64"
+      },
+      "gnupg": {
+        "version": "1.4.20-1ubuntu3.3",
+        "arch": "amd64"
+      },
+      "gpgv": {
+        "version": "1.4.20-1ubuntu3.3",
+        "arch": "amd64"
+      },
+      "grep": {
+        "version": "2.25-1~16.04.1",
+        "arch": "amd64"
+      },
+      "gzip": {
+        "version": "1.6-4ubuntu1",
+        "arch": "amd64"
+      },
+      "hostname": {
+        "version": "3.16ubuntu2",
+        "arch": "amd64"
+      },
+      "init": {
+        "version": "1.29ubuntu4",
+        "arch": "amd64"
+      },
+      "init-system-helpers": {
+        "version": "1.29ubuntu4",
+        "arch": "all"
+      },
+      "initscripts": {
+        "version": "2.88dsf-59.3ubuntu2",
+        "arch": "amd64"
+      },
+      "insserv": {
+        "version": "1.14.0-5ubuntu3",
+        "arch": "amd64"
+      },
+      "less": {
+        "version": "481-2.1ubuntu0.2",
+        "arch": "amd64"
+      },
+      "libacl1": {
+        "version": "2.2.52-3",
+        "arch": "amd64"
+      },
+      "libapparmor1": {
+        "version": "2.10.95-0ubuntu2.11",
+        "arch": "amd64"
+      },
+      "libapt-pkg5.0": {
+        "version": "1.2.32ubuntu0.1",
+        "arch": "amd64"
+      },
+      "libasn1-8-heimdal": {
+        "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1",
+        "arch": "amd64"
+      },
+      "libattr1": {
+        "version": "1:2.4.47-2",
+        "arch": "amd64"
+      },
+      "libaudit-common": {
+        "version": "1:2.4.5-1ubuntu2.1",
+        "arch": "all"
+      },
+      "libaudit1": {
+        "version": "1:2.4.5-1ubuntu2.1",
+        "arch": "amd64"
+      },
+      "libblkid1": {
+        "version": "2.27.1-6ubuntu3.10",
+        "arch": "amd64"
+      },
+      "libbsd0": {
+        "version": "0.8.2-1ubuntu0.1",
+        "arch": "amd64"
+      },
+      "libbz2-1.0": {
+        "version": "1.0.6-8ubuntu0.2",
+        "arch": "amd64"
+      },
+      "libc-bin": {
+        "version": "2.23-0ubuntu11",
+        "arch": "amd64"
+      },
+      "libc6": {
+        "version": "2.23-0ubuntu11",
+        "arch": "amd64"
+      },
+      "libcap2": {
+        "version": "1:2.24-12",
+        "arch": "amd64"
+      },
+      "libcap2-bin": {
+        "version": "1:2.24-12",
+        "arch": "amd64"
+      },
+      "libcomerr2": {
+        "version": "1.42.13-1ubuntu1.2",
+        "arch": "amd64"
+      },
+      "libcryptsetup4": {
+        "version": "2:1.6.6-5ubuntu2.1",
+        "arch": "amd64"
+      },
+      "libcurl3-gnutls": {
+        "version": "7.47.0-1ubuntu2.15",
+        "arch": "amd64"
+      },
+      "libdb5.3": {
+        "version": "5.3.28-11ubuntu0.2",
+        "arch": "amd64"
+      },
+      "libdebconfclient0": {
+        "version": "0.198ubuntu1",
+        "arch": "amd64"
+      },
+      "libdevmapper1.02.1": {
+        "version": "2:1.02.110-1ubuntu10",
+        "arch": "amd64"
+      },
+      "libedit2": {
+        "version": "3.1-20150325-1ubuntu2",
+        "arch": "amd64"
+      },
+      "libexpat1": {
+        "version": "2.1.0-7ubuntu0.16.04.5",
+        "arch": "amd64"
+      },
+      "libfdisk1": {
+        "version": "2.27.1-6ubuntu3.10",
+        "arch": "amd64"
+      },
+      "libffi6": {
+        "version": "3.2.1-4",
+        "arch": "amd64"
+      },
+      "libgcc1": {
+        "version": "1:6.0.1-0ubuntu1",
+        "arch": "amd64"
+      },
+      "libgcrypt20": {
+        "version": "1.6.5-2ubuntu0.6",
+        "arch": "amd64"
+      },
+      "libgmp10": {
+        "version": "2:6.1.0+dfsg-2",
+        "arch": "amd64"
+      },
+      "libgnutls30": {
+        "version": "3.4.10-4ubuntu1.8",
+        "arch": "amd64"
+      },
+      "libgpg-error0": {
+        "version": "1.21-2ubuntu1",
+        "arch": "amd64"
+      },
+      "libgpm2": {
+        "version": "1.20.4-6.1",
+        "arch": "amd64"
+      },
+      "libgssapi-krb5-2": {
+        "version": "1.13.2+dfsg-5ubuntu2.1",
+        "arch": "amd64"
+      },
+      "libgssapi3-heimdal": {
+        "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1",
+        "arch": "amd64"
+      },
+      "libhcrypto4-heimdal": {
+        "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1",
+        "arch": "amd64"
+      },
+      "libheimbase1-heimdal": {
+        "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1",
+        "arch": "amd64"
+      },
+      "libheimntlm0-heimdal": {
+        "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1",
+        "arch": "amd64"
+      },
+      "libhogweed4": {
+        "version": "3.2-1ubuntu0.16.04.1",
+        "arch": "amd64"
+      },
+      "libhx509-5-heimdal": {
+        "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1",
+        "arch": "amd64"
+      },
+      "libidn11": {
+        "version": "1.32-3ubuntu1.2",
+        "arch": "amd64"
+      },
+      "libk5crypto3": {
+        "version": "1.13.2+dfsg-5ubuntu2.1",
+        "arch": "amd64"
+      },
+      "libkeyutils1": {
+        "version": "1.5.9-8ubuntu1",
+        "arch": "amd64"
+      },
+      "libkmod2": {
+        "version": "22-1ubuntu5.2",
+        "arch": "amd64"
+      },
+      "libkrb5-26-heimdal": {
+        "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1",
+        "arch": "amd64"
+      },
+      "libkrb5-3": {
+        "version": "1.13.2+dfsg-5ubuntu2.1",
+        "arch": "amd64"
+      },
+      "libkrb5support0": {
+        "version": "1.13.2+dfsg-5ubuntu2.1",
+        "arch": "amd64"
+      },
+      "libldap-2.4-2": {
+        "version": "2.4.42+dfsg-2ubuntu3.8",
+        "arch": "amd64"
+      },
+      "liblz4-1": {
+        "version": "0.0~r131-2ubuntu2",
+        "arch": "amd64"
+      },
+      "liblzma5": {
+        "version": "5.1.1alpha+20120614-2ubuntu2",
+        "arch": "amd64"
+      },
+      "libmount1": {
+        "version": "2.27.1-6ubuntu3.10",
+        "arch": "amd64"
+      },
+      "libmpdec2": {
+        "version": "2.4.2-1",
+        "arch": "amd64"
+      },
+      "libncurses5": {
+        "version": "6.0+20160213-1ubuntu1",
+        "arch": "amd64"
+      },
+      "libncursesw5": {
+        "version": "6.0+20160213-1ubuntu1",
+        "arch": "amd64"
+      },
+      "libnettle6": {
+        "version": "3.2-1ubuntu0.16.04.1",
+        "arch": "amd64"
+      },
+      "libp11-kit0": {
+        "version": "0.23.2-5~ubuntu16.04.1",
+        "arch": "amd64"
+      },
+      "libpam-modules": {
+        "version": "1.1.8-3.2ubuntu2.1",
+        "arch": "amd64"
+      },
+      "libpam-modules-bin": {
+        "version": "1.1.8-3.2ubuntu2.1",
+        "arch": "amd64"
+      },
+      "libpam-runtime": {
+        "version": "1.1.8-3.2ubuntu2.1",
+        "arch": "all"
+      },
+      "libpam0g": {
+        "version": "1.1.8-3.2ubuntu2.1",
+        "arch": "amd64"
+      },
+      "libpcre3": {
+        "version": "2:8.38-3.1",
+        "arch": "amd64"
+      },
+      "libprocps4": {
+        "version": "2:3.3.10-4ubuntu2.5",
+        "arch": "amd64"
+      },
+      "libpython3.5": {
+        "version": "3.5.2-2ubuntu0~16.04.10",
+        "arch": "amd64"
+      },
+      "libpython3.5-minimal": {
+        "version": "3.5.2-2ubuntu0~16.04.10",
+        "arch": "amd64"
+      },
+      "libpython3.5-stdlib": {
+        "version": "3.5.2-2ubuntu0~16.04.10",
+        "arch": "amd64"
+      },
+      "libreadline6": {
+        "version": "6.3-8ubuntu2",
+        "arch": "amd64"
+      },
+      "libroken18-heimdal": {
+        "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1",
+        "arch": "amd64"
+      },
+      "librtmp1": {
+        "version": "2.4+20151223.gitfa8646d-1ubuntu0.1",
+        "arch": "amd64"
+      },
+      "libsasl2-2": {
+        "version": "2.1.26.dfsg1-14ubuntu0.2",
+        "arch": "amd64"
+      },
+      "libsasl2-modules-db": {
+        "version": "2.1.26.dfsg1-14ubuntu0.2",
+        "arch": "amd64"
+      },
+      "libseccomp2": {
+        "version": "2.4.1-0ubuntu0.16.04.2",
+        "arch": "amd64"
+      },
+      "libselinux1": {
+        "version": "2.4-3build2",
+        "arch": "amd64"
+      },
+      "libsemanage-common": {
+        "version": "2.3-1build3",
+        "arch": "all"
+      },
+      "libsemanage1": {
+        "version": "2.3-1build3",
+        "arch": "amd64"
+      },
+      "libsepol1": {
+        "version": "2.4-2",
+        "arch": "amd64"
+      },
+      "libsmartcols1": {
+        "version": "2.27.1-6ubuntu3.10",
+        "arch": "amd64"
+      },
+      "libsqlite3-0": {
+        "version": "3.11.0-1ubuntu1.5",
+        "arch": "amd64"
+      },
+      "libss2": {
+        "version": "1.42.13-1ubuntu1.2",
+        "arch": "amd64"
+      },
+      "libssl1.0.0": {
+        "version": "1.0.2g-1ubuntu4.16",
+        "arch": "amd64"
+      },
+      "libstdc++6": {
+        "version": "5.4.0-6ubuntu1~16.04.12",
+        "arch": "amd64"
+      },
+      "libsystemd0": {
+        "version": "229-4ubuntu21.28",
+        "arch": "amd64"
+      },
+      "libtasn1-6": {
+        "version": "4.7-3ubuntu0.16.04.3",
+        "arch": "amd64"
+      },
+      "libtinfo5": {
+        "version": "6.0+20160213-1ubuntu1",
+        "arch": "amd64"
+      },
+      "libudev1": {
+        "version": "229-4ubuntu21.28",
+        "arch": "amd64"
+      },
+      "libusb-0.1-4": {
+        "version": "2:0.1.12-28",
+        "arch": "amd64"
+      },
+      "libustr-1.0-1": {
+        "version": "1.0.4-5",
+        "arch": "amd64"
+      },
+      "libuuid1": {
+        "version": "2.27.1-6ubuntu3.10",
+        "arch": "amd64"
+      },
+      "libwind0-heimdal": {
+        "version": "1.7~git20150920+dfsg-4ubuntu1.16.04.1",
+        "arch": "amd64"
+      },
+      "libwrap0": {
+        "version": "7.6.q-25",
+        "arch": "amd64"
+      },
+      "login": {
+        "version": "1:4.2-3.1ubuntu5.4",
+        "arch": "amd64"
+      },
+      "lsb-base": {
+        "version": "9.20160110ubuntu0.2",
+        "arch": "all"
+      },
+      "makedev": {
+        "version": "2.3.1-93ubuntu2~ubuntu16.04.1",
+        "arch": "all"
+      },
+      "mawk": {
+        "version": "1.3.3-17ubuntu2",
+        "arch": "amd64"
+      },
+      "mime-support": {
+        "version": "3.59ubuntu1",
+        "arch": "all"
+      },
+      "mount": {
+        "version": "2.27.1-6ubuntu3.10",
+        "arch": "amd64"
+      },
+      "multiarch-support": {
+        "version": "2.23-0ubuntu11",
+        "arch": "amd64"
+      },
+      "nano": {
+        "version": "2.5.3-2ubuntu2",
+        "arch": "amd64"
+      },
+      "ncurses-base": {
+        "version": "6.0+20160213-1ubuntu1",
+        "arch": "all"
+      },
+      "ncurses-bin": {
+        "version": "6.0+20160213-1ubuntu1",
+        "arch": "amd64"
+      },
+      "openssh-client": {
+        "version": "1:7.2p2-4ubuntu2.10",
+        "arch": "amd64"
+      },
+      "openssh-server": {
+        "version": "1:7.2p2-4ubuntu2.10",
+        "arch": "amd64"
+      },
+      "openssh-sftp-server": {
+        "version": "1:7.2p2-4ubuntu2.10",
+        "arch": "amd64"
+      },
+      "openssl": {
+        "version": "1.0.2g-1ubuntu4.16",
+        "arch": "amd64"
+      },
+      "passwd": {
+        "version": "1:4.2-3.1ubuntu5.4",
+        "arch": "amd64"
+      },
+      "perl-base": {
+        "version": "5.22.1-9ubuntu0.6",
+        "arch": "amd64"
+      },
+      "procps": {
+        "version": "2:3.3.10-4ubuntu2.5",
+        "arch": "amd64"
+      },
+      "readline-common": {
+        "version": "6.3-8ubuntu2",
+        "arch": "all"
+      },
+      "sed": {
+        "version": "4.2.2-7",
+        "arch": "amd64"
+      },
+      "sensible-utils": {
+        "version": "0.0.9ubuntu0.16.04.1",
+        "arch": "all"
+      },
+      "systemd": {
+        "version": "229-4ubuntu21.28",
+        "arch": "amd64"
+      },
+      "systemd-sysv": {
+        "version": "229-4ubuntu21.28",
+        "arch": "amd64"
+      },
+      "sysv-rc": {
+        "version": "2.88dsf-59.3ubuntu2",
+        "arch": "all"
+      },
+      "sysvinit-utils": {
+        "version": "2.88dsf-59.3ubuntu2",
+        "arch": "amd64"
+      },
+      "tar": {
+        "version": "1.28-2.1ubuntu0.1",
+        "arch": "amd64"
+      },
+      "tzdata": {
+        "version": "2020a-0ubuntu0.16.04",
+        "arch": "all"
+      },
+      "ubuntu-keyring": {
+        "version": "2012.05.19.1",
+        "arch": "all"
+      },
+      "util-linux": {
+        "version": "2.27.1-6ubuntu3.10",
+        "arch": "amd64"
+      },
+      "vim": {
+        "version": "2:7.4.1689-3ubuntu1.4",
+        "arch": "amd64"
+      },
+      "vim-common": {
+        "version": "2:7.4.1689-3ubuntu1.4",
+        "arch": "amd64"
+      },
+      "vim-runtime": {
+        "version": "2:7.4.1689-3ubuntu1.4",
+        "arch": "all"
+      },
+      "wget": {
+        "version": "1.17.1-1ubuntu1.5",
+        "arch": "amd64"
+      },
+      "zlib1g": {
+        "version": "1:1.2.8.dfsg-2ubuntu4.3",
+        "arch": "amd64"
+      }
+    },
+    "root_group": "root",
+    "shard_seed": 228176946,
+    "shells": [
+      "/bin/sh",
+      "/bin/dash",
+      "/bin/bash",
+      "/bin/rbash"
+    ],
+    "sysconf": {
+      "LINK_MAX": 127,
+      "_POSIX_LINK_MAX": 127,
+      "MAX_CANON": 255,
+      "_POSIX_MAX_CANON": 255,
+      "MAX_INPUT": 255,
+      "_POSIX_MAX_INPUT": 255,
+      "NAME_MAX": 255,
+      "_POSIX_NAME_MAX": 255,
+      "PATH_MAX": 4096,
+      "_POSIX_PATH_MAX": 4096,
+      "PIPE_BUF": 4096,
+      "_POSIX_PIPE_BUF": 4096,
+      "SOCK_MAXBUF": null,
+      "_POSIX_ASYNC_IO": null,
+      "_POSIX_CHOWN_RESTRICTED": 1,
+      "_POSIX_NO_TRUNC": 1,
+      "_POSIX_PRIO_IO": null,
+      "_POSIX_SYNC_IO": null,
+      "_POSIX_VDISABLE": 0,
+      "ARG_MAX": 2097152,
+      "ATEXIT_MAX": 2147483647,
+      "CHAR_BIT": 8,
+      "CHAR_MAX": 127,
+      "CHAR_MIN": -128,
+      "CHILD_MAX": null,
+      "CLK_TCK": 100,
+      "INT_MAX": 2147483647,
+      "INT_MIN": -2147483648,
+      "IOV_MAX": 1024,
+      "LOGNAME_MAX": 256,
+      "LONG_BIT": 64,
+      "MB_LEN_MAX": 16,
+      "NGROUPS_MAX": 65536,
+      "NL_ARGMAX": 4096,
+      "NL_LANGMAX": 2048,
+      "NL_MSGMAX": 2147483647,
+      "NL_NMAX": 2147483647,
+      "NL_SETMAX": 2147483647,
+      "NL_TEXTMAX": 2147483647,
+      "NSS_BUFLEN_GROUP": 1024,
+      "NSS_BUFLEN_PASSWD": 1024,
+      "NZERO": 20,
+      "OPEN_MAX": 1048576,
+      "PAGESIZE": 4096,
+      "PAGE_SIZE": 4096,
+      "PASS_MAX": 8192,
+      "PTHREAD_DESTRUCTOR_ITERATIONS": 4,
+      "PTHREAD_KEYS_MAX": 1024,
+      "PTHREAD_STACK_MIN": 16384,
+      "PTHREAD_THREADS_MAX": null,
+      "SCHAR_MAX": 127,
+      "SCHAR_MIN": -128,
+      "SHRT_MAX": 32767,
+      "SHRT_MIN": -32768,
+      "SSIZE_MAX": 32767,
+      "TTY_NAME_MAX": 32,
+      "TZNAME_MAX": 6,
+      "UCHAR_MAX": 255,
+      "UINT_MAX": 4294967295,
+      "UIO_MAXIOV": 1024,
+      "ULONG_MAX": 18446744073709551615,
+      "USHRT_MAX": 65535,
+      "WORD_BIT": 32,
+      "_AVPHYS_PAGES": 28038,
+      "_NPROCESSORS_CONF": 2,
+      "_NPROCESSORS_ONLN": 2,
+      "_PHYS_PAGES": 967913,
+      "_POSIX_ARG_MAX": 2097152,
+      "_POSIX_ASYNCHRONOUS_IO": 200809,
+      "_POSIX_CHILD_MAX": null,
+      "_POSIX_FSYNC": 200809,
+      "_POSIX_JOB_CONTROL": 1,
+      "_POSIX_MAPPED_FILES": 200809,
+      "_POSIX_MEMLOCK": 200809,
+      "_POSIX_MEMLOCK_RANGE": 200809,
+      "_POSIX_MEMORY_PROTECTION": 200809,
+      "_POSIX_MESSAGE_PASSING": 200809,
+      "_POSIX_NGROUPS_MAX": 65536,
+      "_POSIX_OPEN_MAX": 1048576,
+      "_POSIX_PII": null,
+      "_POSIX_PII_INTERNET": null,
+      "_POSIX_PII_INTERNET_DGRAM": null,
+      "_POSIX_PII_INTERNET_STREAM": null,
+      "_POSIX_PII_OSI": null,
+      "_POSIX_PII_OSI_CLTS": null,
+      "_POSIX_PII_OSI_COTS": null,
+      "_POSIX_PII_OSI_M": null,
+      "_POSIX_PII_SOCKET": null,
+      "_POSIX_PII_XTI": null,
+      "_POSIX_POLL": null,
+      "_POSIX_PRIORITIZED_IO": 200809,
+      "_POSIX_PRIORITY_SCHEDULING": 200809,
+      "_POSIX_REALTIME_SIGNALS": 200809,
+      "_POSIX_SAVED_IDS": 1,
+      "_POSIX_SELECT": null,
+      "_POSIX_SEMAPHORES": 200809,
+      "_POSIX_SHARED_MEMORY_OBJECTS": 200809,
+      "_POSIX_SSIZE_MAX": 32767,
+      "_POSIX_STREAM_MAX": 16,
+      "_POSIX_SYNCHRONIZED_IO": 200809,
+      "_POSIX_THREADS": 200809,
+      "_POSIX_THREAD_ATTR_STACKADDR": 200809,
+      "_POSIX_THREAD_ATTR_STACKSIZE": 200809,
+      "_POSIX_THREAD_PRIORITY_SCHEDULING": 200809,
+      "_POSIX_THREAD_PRIO_INHERIT": 200809,
+      "_POSIX_THREAD_PRIO_PROTECT": 200809,
+      "_POSIX_THREAD_ROBUST_PRIO_INHERIT": null,
+      "_POSIX_THREAD_ROBUST_PRIO_PROTECT": null,
+      "_POSIX_THREAD_PROCESS_SHARED": 200809,
+      "_POSIX_THREAD_SAFE_FUNCTIONS": 200809,
+      "_POSIX_TIMERS": 200809,
+      "TIMER_MAX": null,
+      "_POSIX_TZNAME_MAX": 6,
+      "_POSIX_VERSION": 200809,
+      "_T_IOV_MAX": null,
+      "_XOPEN_CRYPT": 1,
+      "_XOPEN_ENH_I18N": 1,
+      "_XOPEN_LEGACY": 1,
+      "_XOPEN_REALTIME": 1,
+      "_XOPEN_REALTIME_THREADS": 1,
+      "_XOPEN_SHM": 1,
+      "_XOPEN_UNIX": 1,
+      "_XOPEN_VERSION": 700,
+      "_XOPEN_XCU_VERSION": 4,
+      "_XOPEN_XPG2": 1,
+      "_XOPEN_XPG3": 1,
+      "_XOPEN_XPG4": 1,
+      "BC_BASE_MAX": 99,
+      "BC_DIM_MAX": 2048,
+      "BC_SCALE_MAX": 99,
+      "BC_STRING_MAX": 1000,
+      "CHARCLASS_NAME_MAX": 2048,
+      "COLL_WEIGHTS_MAX": 255,
+      "EQUIV_CLASS_MAX": null,
+      "EXPR_NEST_MAX": 32,
+      "LINE_MAX": 2048,
+      "POSIX2_BC_BASE_MAX": 99,
+      "POSIX2_BC_DIM_MAX": 2048,
+      "POSIX2_BC_SCALE_MAX": 99,
+      "POSIX2_BC_STRING_MAX": 1000,
+      "POSIX2_CHAR_TERM": 200809,
+      "POSIX2_COLL_WEIGHTS_MAX": 255,
+      "POSIX2_C_BIND": 200809,
+      "POSIX2_C_DEV": 200809,
+      "POSIX2_C_VERSION": 200809,
+      "POSIX2_EXPR_NEST_MAX": 32,
+      "POSIX2_FORT_DEV": null,
+      "POSIX2_FORT_RUN": null,
+      "_POSIX2_LINE_MAX": 2048,
+      "POSIX2_LINE_MAX": 2048,
+      "POSIX2_LOCALEDEF": 200809,
+      "POSIX2_RE_DUP_MAX": 32767,
+      "POSIX2_SW_DEV": 200809,
+      "POSIX2_UPE": null,
+      "POSIX2_VERSION": 200809,
+      "RE_DUP_MAX": 32767,
+      "PATH": "/bin:/usr/bin",
+      "CS_PATH": "/bin:/usr/bin",
+      "LFS_CFLAGS": null,
+      "LFS_LDFLAGS": null,
+      "LFS_LIBS": null,
+      "LFS_LINTFLAGS": null,
+      "LFS64_CFLAGS": "-D_LARGEFILE64_SOURCE",
+      "LFS64_LDFLAGS": null,
+      "LFS64_LIBS": null,
+      "LFS64_LINTFLAGS": "-D_LARGEFILE64_SOURCE",
+      "_XBS5_WIDTH_RESTRICTED_ENVS": "XBS5_LP64_OFF64",
+      "XBS5_WIDTH_RESTRICTED_ENVS": "XBS5_LP64_OFF64",
+      "_XBS5_ILP32_OFF32": null,
+      "XBS5_ILP32_OFF32_CFLAGS": null,
+      "XBS5_ILP32_OFF32_LDFLAGS": null,
+      "XBS5_ILP32_OFF32_LIBS": null,
+      "XBS5_ILP32_OFF32_LINTFLAGS": null,
+      "_XBS5_ILP32_OFFBIG": null,
+      "XBS5_ILP32_OFFBIG_CFLAGS": null,
+      "XBS5_ILP32_OFFBIG_LDFLAGS": null,
+      "XBS5_ILP32_OFFBIG_LIBS": null,
+      "XBS5_ILP32_OFFBIG_LINTFLAGS": null,
+      "_XBS5_LP64_OFF64": 1,
+      "XBS5_LP64_OFF64_CFLAGS": "-m64",
+      "XBS5_LP64_OFF64_LDFLAGS": "-m64",
+      "XBS5_LP64_OFF64_LIBS": null,
+      "XBS5_LP64_OFF64_LINTFLAGS": null,
+      "_XBS5_LPBIG_OFFBIG": null,
+      "XBS5_LPBIG_OFFBIG_CFLAGS": null,
+      "XBS5_LPBIG_OFFBIG_LDFLAGS": null,
+      "XBS5_LPBIG_OFFBIG_LIBS": null,
+      "XBS5_LPBIG_OFFBIG_LINTFLAGS": null,
+      "_POSIX_V6_ILP32_OFF32": null,
+      "POSIX_V6_ILP32_OFF32_CFLAGS": null,
+      "POSIX_V6_ILP32_OFF32_LDFLAGS": null,
+      "POSIX_V6_ILP32_OFF32_LIBS": null,
+      "POSIX_V6_ILP32_OFF32_LINTFLAGS": null,
+      "_POSIX_V6_WIDTH_RESTRICTED_ENVS": "POSIX_V6_LP64_OFF64",
+      "POSIX_V6_WIDTH_RESTRICTED_ENVS": "POSIX_V6_LP64_OFF64",
+      "_POSIX_V6_ILP32_OFFBIG": null,
+      "POSIX_V6_ILP32_OFFBIG_CFLAGS": null,
+      "POSIX_V6_ILP32_OFFBIG_LDFLAGS": null,
+      "POSIX_V6_ILP32_OFFBIG_LIBS": null,
+      "POSIX_V6_ILP32_OFFBIG_LINTFLAGS": null,
+      "_POSIX_V6_LP64_OFF64": 1,
+      "POSIX_V6_LP64_OFF64_CFLAGS": "-m64",
+      "POSIX_V6_LP64_OFF64_LDFLAGS": "-m64",
+      "POSIX_V6_LP64_OFF64_LIBS": null,
+      "POSIX_V6_LP64_OFF64_LINTFLAGS": null,
+      "_POSIX_V6_LPBIG_OFFBIG": null,
+      "POSIX_V6_LPBIG_OFFBIG_CFLAGS": null,
+      "POSIX_V6_LPBIG_OFFBIG_LDFLAGS": null,
+      "POSIX_V6_LPBIG_OFFBIG_LIBS": null,
+      "POSIX_V6_LPBIG_OFFBIG_LINTFLAGS": null,
+      "_POSIX_V7_ILP32_OFF32": null,
+      "POSIX_V7_ILP32_OFF32_CFLAGS": null,
+      "POSIX_V7_ILP32_OFF32_LDFLAGS": null,
+      "POSIX_V7_ILP32_OFF32_LIBS": null,
+      "POSIX_V7_ILP32_OFF32_LINTFLAGS": null,
+      "_POSIX_V7_WIDTH_RESTRICTED_ENVS": "POSIX_V7_LP64_OFF64",
+      "POSIX_V7_WIDTH_RESTRICTED_ENVS": "POSIX_V7_LP64_OFF64",
+      "_POSIX_V7_ILP32_OFFBIG": null,
+      "POSIX_V7_ILP32_OFFBIG_CFLAGS": null,
+      "POSIX_V7_ILP32_OFFBIG_LDFLAGS": null,
+      "POSIX_V7_ILP32_OFFBIG_LIBS": null,
+      "POSIX_V7_ILP32_OFFBIG_LINTFLAGS": null,
+      "_POSIX_V7_LP64_OFF64": 1,
+      "POSIX_V7_LP64_OFF64_CFLAGS": "-m64",
+      "POSIX_V7_LP64_OFF64_LDFLAGS": "-m64",
+      "POSIX_V7_LP64_OFF64_LIBS": null,
+      "POSIX_V7_LP64_OFF64_LINTFLAGS": null,
+      "_POSIX_V7_LPBIG_OFFBIG": null,
+      "POSIX_V7_LPBIG_OFFBIG_CFLAGS": null,
+      "POSIX_V7_LPBIG_OFFBIG_LDFLAGS": null,
+      "POSIX_V7_LPBIG_OFFBIG_LIBS": null,
+      "POSIX_V7_LPBIG_OFFBIG_LINTFLAGS": null,
+      "_POSIX_ADVISORY_INFO": 200809,
+      "_POSIX_BARRIERS": 200809,
+      "_POSIX_BASE": null,
+      "_POSIX_C_LANG_SUPPORT": null,
+      "_POSIX_C_LANG_SUPPORT_R": null,
+      "_POSIX_CLOCK_SELECTION": 200809,
+      "_POSIX_CPUTIME": 200809,
+      "_POSIX_THREAD_CPUTIME": 200809,
+      "_POSIX_DEVICE_SPECIFIC": null,
+      "_POSIX_DEVICE_SPECIFIC_R": null,
+      "_POSIX_FD_MGMT": null,
+      "_POSIX_FIFO": null,
+      "_POSIX_PIPE": null,
+      "_POSIX_FILE_ATTRIBUTES": null,
+      "_POSIX_FILE_LOCKING": null,
+      "_POSIX_FILE_SYSTEM": null,
+      "_POSIX_MONOTONIC_CLOCK": 200809,
+      "_POSIX_MULTI_PROCESS": null,
+      "_POSIX_SINGLE_PROCESS": null,
+      "_POSIX_NETWORKING": null,
+      "_POSIX_READER_WRITER_LOCKS": 200809,
+      "_POSIX_SPIN_LOCKS": 200809,
+      "_POSIX_REGEXP": 1,
+      "_REGEX_VERSION": null,
+      "_POSIX_SHELL": 1,
+      "_POSIX_SIGNALS": null,
+      "_POSIX_SPAWN": 200809,
+      "_POSIX_SPORADIC_SERVER": null,
+      "_POSIX_THREAD_SPORADIC_SERVER": null,
+      "_POSIX_SYSTEM_DATABASE": null,
+      "_POSIX_SYSTEM_DATABASE_R": null,
+      "_POSIX_TIMEOUTS": 200809,
+      "_POSIX_TYPED_MEMORY_OBJECTS": null,
+      "_POSIX_USER_GROUPS": null,
+      "_POSIX_USER_GROUPS_R": null,
+      "POSIX2_PBS": null,
+      "POSIX2_PBS_ACCOUNTING": null,
+      "POSIX2_PBS_LOCATE": null,
+      "POSIX2_PBS_TRACK": null,
+      "POSIX2_PBS_MESSAGE": null,
+      "SYMLOOP_MAX": null,
+      "STREAM_MAX": 16,
+      "AIO_LISTIO_MAX": null,
+      "AIO_MAX": null,
+      "AIO_PRIO_DELTA_MAX": 20,
+      "DELAYTIMER_MAX": 2147483647,
+      "HOST_NAME_MAX": 64,
+      "LOGIN_NAME_MAX": 256,
+      "MQ_OPEN_MAX": null,
+      "MQ_PRIO_MAX": 32768,
+      "_POSIX_DEVICE_IO": null,
+      "_POSIX_TRACE": null,
+      "_POSIX_TRACE_EVENT_FILTER": null,
+      "_POSIX_TRACE_INHERIT": null,
+      "_POSIX_TRACE_LOG": null,
+      "RTSIG_MAX": 32,
+      "SEM_NSEMS_MAX": null,
+      "SEM_VALUE_MAX": 2147483647,
+      "SIGQUEUE_MAX": 15003,
+      "FILESIZEBITS": 32,
+      "POSIX_ALLOC_SIZE_MIN": 4096,
+      "POSIX_REC_INCR_XFER_SIZE": null,
+      "POSIX_REC_MAX_XFER_SIZE": null,
+      "POSIX_REC_MIN_XFER_SIZE": 4096,
+      "POSIX_REC_XFER_ALIGN": 4096,
+      "SYMLINK_MAX": null,
+      "GNU_LIBC_VERSION": "glibc 2.23",
+      "GNU_LIBPTHREAD_VERSION": "NPTL 2.23",
+      "POSIX2_SYMLINKS": 1,
+      "LEVEL1_ICACHE_SIZE": 32768,
+      "LEVEL1_ICACHE_ASSOC": 8,
+      "LEVEL1_ICACHE_LINESIZE": 64,
+      "LEVEL1_DCACHE_SIZE": 32768,
+      "LEVEL1_DCACHE_ASSOC": 8,
+      "LEVEL1_DCACHE_LINESIZE": 64,
+      "LEVEL2_CACHE_SIZE": 262144,
+      "LEVEL2_CACHE_ASSOC": 4,
+      "LEVEL2_CACHE_LINESIZE": 64,
+      "LEVEL3_CACHE_SIZE": 8388608,
+      "LEVEL3_CACHE_ASSOC": 16,
+      "LEVEL3_CACHE_LINESIZE": 64,
+      "LEVEL4_CACHE_SIZE": 0,
+      "LEVEL4_CACHE_ASSOC": 0,
+      "LEVEL4_CACHE_LINESIZE": 0,
+      "IPV6": 200809,
+      "RAW_SOCKETS": 200809,
+      "_POSIX_IPV6": 200809,
+      "_POSIX_RAW_SOCKETS": 200809
+    },
+    "time": {
+      "timezone": "UTC"
+    },
+    "chef_guid": "41f0d812-345e-4b73-962f-535d2b8ba806",
+    "name": "ec90f3132446",
+    "chef_environment": "_default",
+    "recipes": [
+      "gitlab",
+      "gitlab::default",
+      "gitlab::config",
+      "gitlab::web-server",
+      "gitlab::users",
+      "gitlab::gitlab-shell",
+      "gitlab::gitlab-rails",
+      "gitlab::selinux",
+      "gitlab::add_trusted_certs",
+      "package::runit",
+      "package::sysctl",
+      "postgresql::bin",
+      "postgresql::directory_locations",
+      "redis::enable",
+      "gitaly::enable",
+      "praefect::disable",
+      "postgresql::enable",
+      "postgresql::user",
+      "gitlab::database_migrations",
+      "gitlab::logrotate_folders_and_configs",
+      "gitlab::unicorn_disable",
+      "gitlab::puma",
+      "gitlab::actioncable_disable",
+      "gitlab::sidekiq_disable",
+      "gitlab::sidekiq-cluster",
+      "gitlab::gitlab-workhorse",
+      "gitlab::mailroom_disable",
+      "gitlab::nginx",
+      "nginx::enable",
+      "gitlab::remote-syslog_disable",
+      "gitlab::logrotate",
+      "gitlab::bootstrap",
+      "gitlab::gitlab-pages_disable",
+      "gitlab::storage-check_disable",
+      "registry::disable",
+      "mattermost::disable",
+      "gitlab::gitlab-healthcheck",
+      "monitoring::default",
+      "monitoring::node-exporter_disable",
+      "monitoring::gitlab-exporter",
+      "monitoring::redis-exporter",
+      "monitoring::prometheus",
+      "monitoring::user",
+      "monitoring::alertmanager",
+      "monitoring::postgres-exporter",
+      "monitoring::grafana"
+    ],
+    "expanded_run_list": [
+      "gitlab::default"
+    ],
+    "roles": [
+
+    ],
+    "cookbooks": {
+      "gitlab": {
+        "version": "0.0.1"
+      },
+      "package": {
+        "version": "0.1.0"
+      },
+      "postgresql": {
+        "version": "0.1.0"
+      },
+      "redis": {
+        "version": "0.1.0"
+      },
+      "monitoring": {
+        "version": "0.1.0"
+      },
+      "registry": {
+        "version": "0.1.0"
+      },
+      "mattermost": {
+        "version": "0.1.0"
+      },
+      "consul": {
+        "version": "0.1.0"
+      },
+      "gitaly": {
+        "version": "0.1.0"
+      },
+      "praefect": {
+        "version": "0.1.0"
+      },
+      "letsencrypt": {
+        "version": "0.1.0"
+      },
+      "nginx": {
+        "version": "0.1.0"
+      },
+      "runit": {
+        "version": "5.1.3"
+      },
+      "acme": {
+        "version": "4.1.1"
+      },
+      "crond": {
+        "version": "0.1.0"
+      }
+    }
+  },
+  "run_list": [
+    "recipe[gitlab]"
+  ]
+}
