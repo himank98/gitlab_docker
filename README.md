@@ -1,1 +1,1 @@
-The latest docker guide can be found here: [GitLab Docker images](/doc/docker/README.md).
+This repo consists of the required files can be used to create the docker image for the gitlab 
